@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Gambletron-webapp" basedir=".">
+
+	<property name="lib.dir" value="WEB-INF/lib" />
+	<property name="webxml" value="WEB-INF/web.xml" />
+	<property name="src.dir" value="WEB-INF/src" />
+	<property name="classes.dir" value="classes" />
+	<property name="jar.dir" value="jar" />
+	<property name="war.dir" value="war" />
+	<property name="main-class" value="wtb.oddsminer.OddsFarm" />
+	<property name="warfile" value="gambletron" />
+	<property name="webroot" value="/usr/share/tomcat6/webapps" />
+
+	<path id="application.classpath">
+		<fileset dir="/usr/share/tomcat6/lib">
+			<include name="servlet-api.jar" />
+		</fileset>
+	</path>
+
+
+	<path id="classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+	</path>
+
+	<target name="clean">
+		<delete dir="${classes.dir}" />
+	</target>
+	<target name="clean-all">
+		<delete dir="${classes.dir}" />
+		<delete dir="${jar.dir}" />
+		<delete dir="${war.dir}" />
+	</target>
+
+	<target name="compile">
+		<mkdir dir="classes" />
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" />
+	</target>
+
+	<target name="jar">
+		<mkdir dir="${jar.dir}" />
+		<jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}">
+			<manifest>
+				<attribute name="Main-Class" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="run">
+		<java jar="build/jar/HelloWorld.jar" fork="true" />
+	</target>
+
+	<target name="unpack">
+		<unwar src="${warfile}.war" dest="${warfile}" />
+	</target>
+
+	<target name="create" depends="compile">
+		<war destfile="${warfile}.war" webxml="${webxml}" update="true">
+			<classes dir="${classes.dir}" />
+		</war>
+	</target>
+
+	<target name="build.my.war">
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" classpathref="application.classpath" />
+		<fileset dir="contents">
+			<include name="**/*" />
+		</fileset>
+		<war destfile="${warfile}.war" webxml="${webxml}">
+			<classes dir="${classes.dir}" />
+		</war>
+	</target>
+
+
+	<target name="copy">
+		<copy todir="${webroot}" overwrite="true">
+			<fileset dir=".">
+				<include name="*.war" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="deploy">
+		<antcall target="create" />
+		<antcall target="copy" />
+	</target>
+</project>

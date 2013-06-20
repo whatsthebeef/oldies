@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Odds Miner" basedir=".">
+
+	<property name="lib.dir" value="libs" />
+	<property name="src.dir" value="src" />
+	<property name="classes.dir" value="classes" />
+	<property name="jar.dir" value="jar" />
+	<property name="main-class" value="wtb.oddsminer.OddsFarm" />
+
+	<path id="classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+	</path>
+
+	<target name="clean-all">
+		<delete dir="${classes.dir}" />
+		<delete dir="${jar.dir}" />
+	</target>
+
+	<target name="clean">
+		<delete dir="${classes.dir}" />
+	</target>
+
+	<target name="compile">
+		<mkdir dir="${classes.dir}" />
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" classpathref="classpath" />
+	</target>
+
+	<target name="jar" depends="clean, compile">
+		<mkdir dir="${jar.dir}" />
+		<jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="${main-class}" />
+			</manifest>
+		</jar>
+		<antcall target="clean" />
+	</target>
+</project>

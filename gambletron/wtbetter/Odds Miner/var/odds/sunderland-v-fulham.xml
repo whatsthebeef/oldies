@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Sunderland" bestOdds="2.30">
+   <odds bookie="924530959_B3" dodds_bslip="0"/>
+   <odds bookie="924530959_SK" dodds_bslip="0"/>
+   <odds bookie="924530959_BX" dodds_bslip="0"/>
+   <odds bookie="924530959_BY" dodds_bslip="0"/>
+   <odds bookie="924530959_FR" dodds_bslip="0"/>
+   <odds bookie="924530959_SO" dodds_bslip="0"/>
+   <odds bookie="924530959_VC" dodds_bslip="2.3"/>
+   <odds bookie="924530959_BS" dodds_bslip="0"/>
+   <odds bookie="924530959_PP" dodds_bslip="0"/>
+   <odds bookie="924530959_SJ" dodds_bslip="0"/>
+   <odds bookie="924530959_EE" dodds_bslip="0"/>
+   <odds bookie="924530959_EX" dodds_bslip="0"/>
+   <odds bookie="924530959_BW" dodds_bslip="2.3"/>
+   <odds bookie="924530959_LD" dodds_bslip="0"/>
+   <odds bookie="924530959_CE" dodds_bslip="0"/>
+   <odds bookie="924530959_WH" dodds_bslip="0"/>
+   <odds bookie="924530959_IG" dodds_bslip="0"/>
+   <odds bookie="924530959_BF" dodds_bslip="2.3"/>
+   <odds bookie="924530959_WB" dodds_bslip="0"/>
+   <odds bookie="924530959_BD" dodds_bslip="0"/>
+   <odds bookie="924530959_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Fulham" bestOdds="3.00">
+   <odds bookie="924530956_B3" dodds_bslip="0"/>
+   <odds bookie="924530956_SK" dodds_bslip="0"/>
+   <odds bookie="924530956_BX" dodds_bslip="0"/>
+   <odds bookie="924530956_BY" dodds_bslip="0"/>
+   <odds bookie="924530956_FR" dodds_bslip="0"/>
+   <odds bookie="924530956_SO" dodds_bslip="0"/>
+   <odds bookie="924530956_VC" dodds_bslip="3"/>
+   <odds bookie="924530956_BS" dodds_bslip="0"/>
+   <odds bookie="924530956_PP" dodds_bslip="0"/>
+   <odds bookie="924530956_SJ" dodds_bslip="0"/>
+   <odds bookie="924530956_EE" dodds_bslip="0"/>
+   <odds bookie="924530956_EX" dodds_bslip="0"/>
+   <odds bookie="924530956_BW" dodds_bslip="2.95"/>
+   <odds bookie="924530956_LD" dodds_bslip="0"/>
+   <odds bookie="924530956_CE" dodds_bslip="0"/>
+   <odds bookie="924530956_WH" dodds_bslip="0"/>
+   <odds bookie="924530956_IG" dodds_bslip="0"/>
+   <odds bookie="924530956_BF" dodds_bslip="3.15"/>
+   <odds bookie="924530956_WB" dodds_bslip="0"/>
+   <odds bookie="924530956_BD" dodds_bslip="0"/>
+   <odds bookie="924530956_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.25">
+   <odds bookie="924530962_B3" dodds_bslip="0"/>
+   <odds bookie="924530962_SK" dodds_bslip="0"/>
+   <odds bookie="924530962_BX" dodds_bslip="0"/>
+   <odds bookie="924530962_BY" dodds_bslip="0"/>
+   <odds bookie="924530962_FR" dodds_bslip="0"/>
+   <odds bookie="924530962_SO" dodds_bslip="0"/>
+   <odds bookie="924530962_VC" dodds_bslip="3.2"/>
+   <odds bookie="924530962_BS" dodds_bslip="0"/>
+   <odds bookie="924530962_PP" dodds_bslip="0"/>
+   <odds bookie="924530962_SJ" dodds_bslip="0"/>
+   <odds bookie="924530962_EE" dodds_bslip="0"/>
+   <odds bookie="924530962_EX" dodds_bslip="0"/>
+   <odds bookie="924530962_BW" dodds_bslip="3.25"/>
+   <odds bookie="924530962_LD" dodds_bslip="0"/>
+   <odds bookie="924530962_CE" dodds_bslip="0"/>
+   <odds bookie="924530962_WH" dodds_bslip="0"/>
+   <odds bookie="924530962_IG" dodds_bslip="0"/>
+   <odds bookie="924530962_BF" dodds_bslip="3.4"/>
+   <odds bookie="924530962_WB" dodds_bslip="0"/>
+   <odds bookie="924530962_BD" dodds_bslip="0"/>
+   <odds bookie="924530962_SI" dodds_bslip=""/>
+</outCome>
+</match>

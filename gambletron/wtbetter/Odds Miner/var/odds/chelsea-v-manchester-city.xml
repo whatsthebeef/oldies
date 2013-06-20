@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Chelsea" bestOdds="1.50">
+   <odds bookie="924540532_B3" dodds_bslip="0"/>
+   <odds bookie="924540532_SK" dodds_bslip="0"/>
+   <odds bookie="924540532_BX" dodds_bslip="0"/>
+   <odds bookie="924540532_BY" dodds_bslip="0"/>
+   <odds bookie="924540532_FR" dodds_bslip="0"/>
+   <odds bookie="924540532_SO" dodds_bslip="0"/>
+   <odds bookie="924540532_VC" dodds_bslip="1.5"/>
+   <odds bookie="924540532_BS" dodds_bslip="0"/>
+   <odds bookie="924540532_PP" dodds_bslip="0"/>
+   <odds bookie="924540532_SJ" dodds_bslip="0"/>
+   <odds bookie="924540532_EE" dodds_bslip="0"/>
+   <odds bookie="924540532_EX" dodds_bslip="0"/>
+   <odds bookie="924540532_BW" dodds_bslip="1.45"/>
+   <odds bookie="924540532_LD" dodds_bslip="0"/>
+   <odds bookie="924540532_CE" dodds_bslip="0"/>
+   <odds bookie="924540532_WH" dodds_bslip="0"/>
+   <odds bookie="924540532_IG" dodds_bslip="0"/>
+   <odds bookie="924540532_BF" dodds_bslip="1.48"/>
+   <odds bookie="924540532_WB" dodds_bslip="0"/>
+   <odds bookie="924540532_BD" dodds_bslip="0"/>
+   <odds bookie="924540532_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.75">
+   <odds bookie="924540538_B3" dodds_bslip="0"/>
+   <odds bookie="924540538_SK" dodds_bslip="0"/>
+   <odds bookie="924540538_BX" dodds_bslip="0"/>
+   <odds bookie="924540538_BY" dodds_bslip="0"/>
+   <odds bookie="924540538_FR" dodds_bslip="0"/>
+   <odds bookie="924540538_SO" dodds_bslip="0"/>
+   <odds bookie="924540538_VC" dodds_bslip="3.75"/>
+   <odds bookie="924540538_BS" dodds_bslip="0"/>
+   <odds bookie="924540538_PP" dodds_bslip="0"/>
+   <odds bookie="924540538_SJ" dodds_bslip="0"/>
+   <odds bookie="924540538_EE" dodds_bslip="0"/>
+   <odds bookie="924540538_EX" dodds_bslip="0"/>
+   <odds bookie="924540538_BW" dodds_bslip="3.75"/>
+   <odds bookie="924540538_LD" dodds_bslip="0"/>
+   <odds bookie="924540538_CE" dodds_bslip="0"/>
+   <odds bookie="924540538_WH" dodds_bslip="0"/>
+   <odds bookie="924540538_IG" dodds_bslip="0"/>
+   <odds bookie="924540538_BF" dodds_bslip="3.85"/>
+   <odds bookie="924540538_WB" dodds_bslip="0"/>
+   <odds bookie="924540538_BD" dodds_bslip="0"/>
+   <odds bookie="924540538_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Manchester City" bestOdds="8.00">
+   <odds bookie="924540535_B3" dodds_bslip="0"/>
+   <odds bookie="924540535_SK" dodds_bslip="0"/>
+   <odds bookie="924540535_BX" dodds_bslip="0"/>
+   <odds bookie="924540535_BY" dodds_bslip="0"/>
+   <odds bookie="924540535_FR" dodds_bslip="0"/>
+   <odds bookie="924540535_SO" dodds_bslip="0"/>
+   <odds bookie="924540535_VC" dodds_bslip="7"/>
+   <odds bookie="924540535_BS" dodds_bslip="0"/>
+   <odds bookie="924540535_PP" dodds_bslip="0"/>
+   <odds bookie="924540535_SJ" dodds_bslip="0"/>
+   <odds bookie="924540535_EE" dodds_bslip="0"/>
+   <odds bookie="924540535_EX" dodds_bslip="0"/>
+   <odds bookie="924540535_BW" dodds_bslip="8"/>
+   <odds bookie="924540535_LD" dodds_bslip="0"/>
+   <odds bookie="924540535_CE" dodds_bslip="0"/>
+   <odds bookie="924540535_WH" dodds_bslip="0"/>
+   <odds bookie="924540535_IG" dodds_bslip="0"/>
+   <odds bookie="924540535_BF" dodds_bslip="8.2"/>
+   <odds bookie="924540535_WB" dodds_bslip="0"/>
+   <odds bookie="924540535_BD" dodds_bslip="0"/>
+   <odds bookie="924540535_SI" dodds_bslip=""/>
+</outCome>
+</match>

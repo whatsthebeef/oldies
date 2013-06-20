@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Manchester United" bestOdds="1.85">
+   <odds bookie="900362143_B3" dodds_bslip="1.8"/>
+   <odds bookie="900362143_SK" dodds_bslip="1.8"/>
+   <odds bookie="900362143_BX" dodds_bslip="1.75"/>
+   <odds bookie="900362143_BY" dodds_bslip="1.8"/>
+   <odds bookie="900362143_FR" dodds_bslip="1.8"/>
+   <odds bookie="900362143_SO" dodds_bslip="1.73"/>
+   <odds bookie="900362143_VC" dodds_bslip="1.73"/>
+   <odds bookie="900362143_BS" dodds_bslip="1.85"/>
+   <odds bookie="900362143_PP" dodds_bslip="1.83"/>
+   <odds bookie="900362143_SJ" dodds_bslip="1.73"/>
+   <odds bookie="900362143_EE" dodds_bslip="1.85"/>
+   <odds bookie="900362143_EX" dodds_bslip="1.8"/>
+   <odds bookie="900362143_BW" dodds_bslip="1.7"/>
+   <odds bookie="900362143_LD" dodds_bslip="1.73"/>
+   <odds bookie="900362143_CE" dodds_bslip="1.73"/>
+   <odds bookie="900362143_WH" dodds_bslip="1.8"/>
+   <odds bookie="900362143_IG" dodds_bslip="1.67"/>
+   <odds bookie="900362143_BF" dodds_bslip="1.86"/>
+   <odds bookie="900362143_WB" dodds_bslip="1.84"/>
+   <odds bookie="900362143_BD" dodds_bslip="1.84"/>
+   <odds bookie="900362143_SI" dodds_bslip="16-17.5"/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.60">
+   <odds bookie="900362149_B3" dodds_bslip="3.6"/>
+   <odds bookie="900362149_SK" dodds_bslip="3.5"/>
+   <odds bookie="900362149_BX" dodds_bslip="3.6"/>
+   <odds bookie="900362149_BY" dodds_bslip="3.5"/>
+   <odds bookie="900362149_FR" dodds_bslip="3.5"/>
+   <odds bookie="900362149_SO" dodds_bslip="3.25"/>
+   <odds bookie="900362149_VC" dodds_bslip="3.6"/>
+   <odds bookie="900362149_BS" dodds_bslip="3.4"/>
+   <odds bookie="900362149_PP" dodds_bslip="3.4"/>
+   <odds bookie="900362149_SJ" dodds_bslip="3.5"/>
+   <odds bookie="900362149_EE" dodds_bslip="3.4"/>
+   <odds bookie="900362149_EX" dodds_bslip="3.4"/>
+   <odds bookie="900362149_BW" dodds_bslip="3.5"/>
+   <odds bookie="900362149_LD" dodds_bslip="3.5"/>
+   <odds bookie="900362149_CE" dodds_bslip="3.5"/>
+   <odds bookie="900362149_WH" dodds_bslip="3.5"/>
+   <odds bookie="900362149_IG" dodds_bslip="3.6"/>
+   <odds bookie="900362149_BF" dodds_bslip="3.65"/>
+   <odds bookie="900362149_WB" dodds_bslip="3.6"/>
+   <odds bookie="900362149_BD" dodds_bslip="3.7"/>
+   <odds bookie="900362149_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Everton" bestOdds="5.00">
+   <odds bookie="900362146_B3" dodds_bslip="4.5"/>
+   <odds bookie="900362146_SK" dodds_bslip="4.5"/>
+   <odds bookie="900362146_BX" dodds_bslip="4.6"/>
+   <odds bookie="900362146_BY" dodds_bslip="4.5"/>
+   <odds bookie="900362146_FR" dodds_bslip="4.5"/>
+   <odds bookie="900362146_SO" dodds_bslip="4.8"/>
+   <odds bookie="900362146_VC" dodds_bslip="5"/>
+   <odds bookie="900362146_BS" dodds_bslip="4.5"/>
+   <odds bookie="900362146_PP" dodds_bslip="4.5"/>
+   <odds bookie="900362146_SJ" dodds_bslip="5"/>
+   <odds bookie="900362146_EE" dodds_bslip="4.5"/>
+   <odds bookie="900362146_EX" dodds_bslip="4.6"/>
+   <odds bookie="900362146_BW" dodds_bslip="4.8"/>
+   <odds bookie="900362146_LD" dodds_bslip="5"/>
+   <odds bookie="900362146_CE" dodds_bslip="5"/>
+   <odds bookie="900362146_WH" dodds_bslip="4.5"/>
+   <odds bookie="900362146_IG" dodds_bslip="4.6"/>
+   <odds bookie="900362146_BF" dodds_bslip="5.2"/>
+   <odds bookie="900362146_WB" dodds_bslip="5.1"/>
+   <odds bookie="900362146_BD" dodds_bslip="5.2"/>
+   <odds bookie="900362146_SI" dodds_bslip="6.5-8"/>
+</outCome>
+</match>

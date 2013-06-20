@@ -1,0 +1,21 @@
+bolton-v-birmingham.xml
+wolverhampton-v-sunderland.xml
+west-ham-v-manchester-city.xml
+Manchester City=0.07
+chelsea-v-wigan.xml
+Draw=0.29
+Wigan=0.15
+arsenal-v-fulham.xml
+Draw=0.15
+hull-v-liverpool.xml
+Hull=0.12
+burnley-v-tottenham.xml
+Tottenham=0.07
+everton-v-portsmouth.xml
+Portsmouth=0.11
+aston-villa-v-blackburn.xml
+Blackburn=0.09
+Draw=0.08
+manchester-united-v-stoke.xml
+Stoke=0.26
+Draw=0.17

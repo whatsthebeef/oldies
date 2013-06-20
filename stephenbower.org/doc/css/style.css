@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+@import url('main.css');
+@import url('tabs.css');
+@import url('form.css');
+@import url('admin.css');
+
+/* All three CSS files above will be loaded from
+   this single document. */

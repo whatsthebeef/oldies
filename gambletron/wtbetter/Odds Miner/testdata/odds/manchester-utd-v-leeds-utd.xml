@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Manchester United" bestOdds="1.95">
+   <odds bookie="669028030_VC" dodds_bslip="1.9"/>
+   <odds bookie="669028030_SJ" dodds_bslip="1.95"/>
+   <odds bookie="669028030_BF" dodds_bslip="1.99"/>
+   <odds bookie="669028030_SI" dodds_bslip="14.5-16"/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.50">
+   <odds bookie="669028033_WH" dodds_bslip="3.3"/>
+   <odds bookie="669028033_BF" dodds_bslip="3.6"/>
+   <odds bookie="669028033_BD" dodds_bslip="3.6"/>
+   <odds bookie="669028033_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Leeds United" bestOdds="4.33">
+   <odds bookie="669028027_B3" dodds_bslip="4.2"/>
+   <odds bookie="669028027_IG" dodds_bslip="3.75"/>
+   <odds bookie="669028027_BF" dodds_bslip="10.0"/>
+   <odds bookie="669028027_VC" dodds_bslip="5.0"/>
+   <odds bookie="669028027_WH" dodds_bslip="4.1"/>
+   <odds bookie="669028027_SI" dodds_bslip="8-9.5"/>
+</outCome>
+</match>

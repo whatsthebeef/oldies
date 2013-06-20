@@ -1,0 +1,10 @@
+function makeactive(tab) 
+{ 
+	document.getElementById("tab1").className = ""; 	
+	document.getElementById("tab2").className = ""; 	
+	document.getElementById("tab3").className = "";
+	document.getElementById("tab4").className = "";
+	document.getElementById("tab"+tab).className = "active";
+	callAHAH('content.php?content= '+tab, 'content',
+     'getting content for tab '+tab+'. Wait...', 'Error'); 
+} 

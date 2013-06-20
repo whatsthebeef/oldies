@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Norwich" bestOdds="1.80">
+   <odds bookie="1036522195_B3" dodds_bslip="1.8"/>
+   <odds bookie="1036522195_SK" dodds_bslip="1.73"/>
+   <odds bookie="1036522195_BX" dodds_bslip="0"/>
+   <odds bookie="1036522195_BY" dodds_bslip="0"/>
+   <odds bookie="1036522195_FR" dodds_bslip="0"/>
+   <odds bookie="1036522195_SO" dodds_bslip="0"/>
+   <odds bookie="1036522195_VC" dodds_bslip="1.73"/>
+   <odds bookie="1036522195_BS" dodds_bslip="0"/>
+   <odds bookie="1036522195_PP" dodds_bslip="0"/>
+   <odds bookie="1036522195_SJ" dodds_bslip="0"/>
+   <odds bookie="1036522195_EE" dodds_bslip="0"/>
+   <odds bookie="1036522195_EX" dodds_bslip="0"/>
+   <odds bookie="1036522195_BW" dodds_bslip="0"/>
+   <odds bookie="1036522195_LD" dodds_bslip="0"/>
+   <odds bookie="1036522195_CE" dodds_bslip="0"/>
+   <odds bookie="1036522195_WH" dodds_bslip="0"/>
+   <odds bookie="1036522195_IG" dodds_bslip="0"/>
+   <odds bookie="1036522195_BF" dodds_bslip="1.17"/>
+   <odds bookie="1036522195_WB" dodds_bslip="0"/>
+   <odds bookie="1036522195_BD" dodds_bslip="0"/>
+   <odds bookie="1036522195_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.60">
+   <odds bookie="1036522228_B3" dodds_bslip="3.5"/>
+   <odds bookie="1036522228_SK" dodds_bslip="3.6"/>
+   <odds bookie="1036522228_BX" dodds_bslip="0"/>
+   <odds bookie="1036522228_BY" dodds_bslip="0"/>
+   <odds bookie="1036522228_FR" dodds_bslip="0"/>
+   <odds bookie="1036522228_SO" dodds_bslip="0"/>
+   <odds bookie="1036522228_VC" dodds_bslip="3.4"/>
+   <odds bookie="1036522228_BS" dodds_bslip="0"/>
+   <odds bookie="1036522228_PP" dodds_bslip="0"/>
+   <odds bookie="1036522228_SJ" dodds_bslip="0"/>
+   <odds bookie="1036522228_EE" dodds_bslip="0"/>
+   <odds bookie="1036522228_EX" dodds_bslip="0"/>
+   <odds bookie="1036522228_BW" dodds_bslip="0"/>
+   <odds bookie="1036522228_LD" dodds_bslip="0"/>
+   <odds bookie="1036522228_CE" dodds_bslip="0"/>
+   <odds bookie="1036522228_WH" dodds_bslip="0"/>
+   <odds bookie="1036522228_IG" dodds_bslip="0"/>
+   <odds bookie="1036522228_BF" dodds_bslip="3.5"/>
+   <odds bookie="1036522228_WB" dodds_bslip="0"/>
+   <odds bookie="1036522228_BD" dodds_bslip="0"/>
+   <odds bookie="1036522228_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Tranmere" bestOdds="5.00">
+   <odds bookie="1036522216_B3" dodds_bslip="4"/>
+   <odds bookie="1036522216_SK" dodds_bslip="5"/>
+   <odds bookie="1036522216_BX" dodds_bslip="0"/>
+   <odds bookie="1036522216_BY" dodds_bslip="0"/>
+   <odds bookie="1036522216_FR" dodds_bslip="0"/>
+   <odds bookie="1036522216_SO" dodds_bslip="0"/>
+   <odds bookie="1036522216_VC" dodds_bslip="4.8"/>
+   <odds bookie="1036522216_BS" dodds_bslip="0"/>
+   <odds bookie="1036522216_PP" dodds_bslip="0"/>
+   <odds bookie="1036522216_SJ" dodds_bslip="0"/>
+   <odds bookie="1036522216_EE" dodds_bslip="0"/>
+   <odds bookie="1036522216_EX" dodds_bslip="0"/>
+   <odds bookie="1036522216_BW" dodds_bslip="0"/>
+   <odds bookie="1036522216_LD" dodds_bslip="0"/>
+   <odds bookie="1036522216_CE" dodds_bslip="0"/>
+   <odds bookie="1036522216_WH" dodds_bslip="0"/>
+   <odds bookie="1036522216_IG" dodds_bslip="0"/>
+   <odds bookie="1036522216_BF" dodds_bslip="2.76"/>
+   <odds bookie="1036522216_WB" dodds_bslip="0"/>
+   <odds bookie="1036522216_BD" dodds_bslip="0"/>
+   <odds bookie="1036522216_SI" dodds_bslip=""/>
+</outCome>
+</match>

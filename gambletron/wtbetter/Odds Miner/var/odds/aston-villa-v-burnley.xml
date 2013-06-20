@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Aston Villa" bestOdds="1.40">
+   <odds bookie="900353803_B3" dodds_bslip="1.36"/>
+   <odds bookie="900353803_SK" dodds_bslip="1.4"/>
+   <odds bookie="900353803_BX" dodds_bslip="1.36"/>
+   <odds bookie="900353803_BY" dodds_bslip="1.36"/>
+   <odds bookie="900353803_FR" dodds_bslip="1.4"/>
+   <odds bookie="900353803_SO" dodds_bslip="1.35"/>
+   <odds bookie="900353803_VC" dodds_bslip="1.4"/>
+   <odds bookie="900353803_BS" dodds_bslip="1.36"/>
+   <odds bookie="900353803_PP" dodds_bslip="1.4"/>
+   <odds bookie="900353803_SJ" dodds_bslip="1.36"/>
+   <odds bookie="900353803_EE" dodds_bslip="1.36"/>
+   <odds bookie="900353803_EX" dodds_bslip="1.4"/>
+   <odds bookie="900353803_BW" dodds_bslip="1.35"/>
+   <odds bookie="900353803_LD" dodds_bslip="1.36"/>
+   <odds bookie="900353803_CE" dodds_bslip="1.4"/>
+   <odds bookie="900353803_WH" dodds_bslip="1.4"/>
+   <odds bookie="900353803_IG" dodds_bslip="1.3"/>
+   <odds bookie="900353803_BF" dodds_bslip="1.4"/>
+   <odds bookie="900353803_WB" dodds_bslip="1.38"/>
+   <odds bookie="900353803_BD" dodds_bslip="1.4"/>
+   <odds bookie="900353803_SI" dodds_bslip="19-20.5"/>
+</outCome>
+<outCome winner="Draw" bestOdds="4.50">
+   <odds bookie="900353806_B3" dodds_bslip="4.5"/>
+   <odds bookie="900353806_SK" dodds_bslip="4.3"/>
+   <odds bookie="900353806_BX" dodds_bslip="4.5"/>
+   <odds bookie="900353806_BY" dodds_bslip="4.5"/>
+   <odds bookie="900353806_FR" dodds_bslip="4.5"/>
+   <odds bookie="900353806_SO" dodds_bslip="4.3"/>
+   <odds bookie="900353806_VC" dodds_bslip="4.5"/>
+   <odds bookie="900353806_BS" dodds_bslip="4.5"/>
+   <odds bookie="900353806_PP" dodds_bslip="4.2"/>
+   <odds bookie="900353806_SJ" dodds_bslip="4.5"/>
+   <odds bookie="900353806_EE" dodds_bslip="4.5"/>
+   <odds bookie="900353806_EX" dodds_bslip="4.2"/>
+   <odds bookie="900353806_BW" dodds_bslip="4.5"/>
+   <odds bookie="900353806_LD" dodds_bslip="4.5"/>
+   <odds bookie="900353806_CE" dodds_bslip="4.3"/>
+   <odds bookie="900353806_WH" dodds_bslip="4.2"/>
+   <odds bookie="900353806_IG" dodds_bslip="4.5"/>
+   <odds bookie="900353806_BF" dodds_bslip="4.8"/>
+   <odds bookie="900353806_WB" dodds_bslip="4.7"/>
+   <odds bookie="900353806_BD" dodds_bslip="4.7"/>
+   <odds bookie="900353806_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Burnley" bestOdds="10.00">
+   <odds bookie="900353800_B3" dodds_bslip="10"/>
+   <odds bookie="900353800_SK" dodds_bslip="8.5"/>
+   <odds bookie="900353800_BX" dodds_bslip="9"/>
+   <odds bookie="900353800_BY" dodds_bslip="9.5"/>
+   <odds bookie="900353800_FR" dodds_bslip="8"/>
+   <odds bookie="900353800_SO" dodds_bslip="8"/>
+   <odds bookie="900353800_VC" dodds_bslip="9"/>
+   <odds bookie="900353800_BS" dodds_bslip="9.5"/>
+   <odds bookie="900353800_PP" dodds_bslip="9"/>
+   <odds bookie="900353800_SJ" dodds_bslip="9"/>
+   <odds bookie="900353800_EE" dodds_bslip="9.5"/>
+   <odds bookie="900353800_EX" dodds_bslip="8.5"/>
+   <odds bookie="900353800_BW" dodds_bslip="8.5"/>
+   <odds bookie="900353800_LD" dodds_bslip="9"/>
+   <odds bookie="900353800_CE" dodds_bslip="8"/>
+   <odds bookie="900353800_WH" dodds_bslip="9"/>
+   <odds bookie="900353800_IG" dodds_bslip="9"/>
+   <odds bookie="900353800_BF" dodds_bslip="12"/>
+   <odds bookie="900353800_WB" dodds_bslip="11.5"/>
+   <odds bookie="900353800_BD" dodds_bslip="11"/>
+   <odds bookie="900353800_SI" dodds_bslip="3.5-5"/>
+</outCome>
+</match>

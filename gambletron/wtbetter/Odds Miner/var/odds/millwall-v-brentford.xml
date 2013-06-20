@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Millwall" bestOdds="1.53">
+   <odds bookie="1037148796_B3" dodds_bslip="1.5"/>
+   <odds bookie="1037148796_SK" dodds_bslip="1.53"/>
+   <odds bookie="1037148796_BX" dodds_bslip="0"/>
+   <odds bookie="1037148796_BY" dodds_bslip="0"/>
+   <odds bookie="1037148796_FR" dodds_bslip="0"/>
+   <odds bookie="1037148796_SO" dodds_bslip="0"/>
+   <odds bookie="1037148796_VC" dodds_bslip="1.5"/>
+   <odds bookie="1037148796_BS" dodds_bslip="0"/>
+   <odds bookie="1037148796_PP" dodds_bslip="0"/>
+   <odds bookie="1037148796_SJ" dodds_bslip="0"/>
+   <odds bookie="1037148796_EE" dodds_bslip="0"/>
+   <odds bookie="1037148796_EX" dodds_bslip="0"/>
+   <odds bookie="1037148796_BW" dodds_bslip="0"/>
+   <odds bookie="1037148796_LD" dodds_bslip="0"/>
+   <odds bookie="1037148796_CE" dodds_bslip="0"/>
+   <odds bookie="1037148796_WH" dodds_bslip="0"/>
+   <odds bookie="1037148796_IG" dodds_bslip="0"/>
+   <odds bookie="1037148796_BF" dodds_bslip="1.41"/>
+   <odds bookie="1037148796_WB" dodds_bslip="0"/>
+   <odds bookie="1037148796_BD" dodds_bslip="0"/>
+   <odds bookie="1037148796_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="4.00">
+   <odds bookie="1037148820_B3" dodds_bslip="3.8"/>
+   <odds bookie="1037148820_SK" dodds_bslip="4"/>
+   <odds bookie="1037148820_BX" dodds_bslip="0"/>
+   <odds bookie="1037148820_BY" dodds_bslip="0"/>
+   <odds bookie="1037148820_FR" dodds_bslip="0"/>
+   <odds bookie="1037148820_SO" dodds_bslip="0"/>
+   <odds bookie="1037148820_VC" dodds_bslip="4"/>
+   <odds bookie="1037148820_BS" dodds_bslip="0"/>
+   <odds bookie="1037148820_PP" dodds_bslip="0"/>
+   <odds bookie="1037148820_SJ" dodds_bslip="0"/>
+   <odds bookie="1037148820_EE" dodds_bslip="0"/>
+   <odds bookie="1037148820_EX" dodds_bslip="0"/>
+   <odds bookie="1037148820_BW" dodds_bslip="0"/>
+   <odds bookie="1037148820_LD" dodds_bslip="0"/>
+   <odds bookie="1037148820_CE" dodds_bslip="0"/>
+   <odds bookie="1037148820_WH" dodds_bslip="0"/>
+   <odds bookie="1037148820_IG" dodds_bslip="0"/>
+   <odds bookie="1037148820_BF" dodds_bslip="3.55"/>
+   <odds bookie="1037148820_WB" dodds_bslip="0"/>
+   <odds bookie="1037148820_BD" dodds_bslip="0"/>
+   <odds bookie="1037148820_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Brentford" bestOdds="6.50">
+   <odds bookie="1037148805_B3" dodds_bslip="6"/>
+   <odds bookie="1037148805_SK" dodds_bslip="6.5"/>
+   <odds bookie="1037148805_BX" dodds_bslip="0"/>
+   <odds bookie="1037148805_BY" dodds_bslip="0"/>
+   <odds bookie="1037148805_FR" dodds_bslip="0"/>
+   <odds bookie="1037148805_SO" dodds_bslip="0"/>
+   <odds bookie="1037148805_VC" dodds_bslip="6.5"/>
+   <odds bookie="1037148805_BS" dodds_bslip="0"/>
+   <odds bookie="1037148805_PP" dodds_bslip="0"/>
+   <odds bookie="1037148805_SJ" dodds_bslip="0"/>
+   <odds bookie="1037148805_EE" dodds_bslip="0"/>
+   <odds bookie="1037148805_EX" dodds_bslip="0"/>
+   <odds bookie="1037148805_BW" dodds_bslip="0"/>
+   <odds bookie="1037148805_LD" dodds_bslip="0"/>
+   <odds bookie="1037148805_CE" dodds_bslip="0"/>
+   <odds bookie="1037148805_WH" dodds_bslip="0"/>
+   <odds bookie="1037148805_IG" dodds_bslip="0"/>
+   <odds bookie="1037148805_BF" dodds_bslip="4.6"/>
+   <odds bookie="1037148805_WB" dodds_bslip="0"/>
+   <odds bookie="1037148805_BD" dodds_bslip="0"/>
+   <odds bookie="1037148805_SI" dodds_bslip=""/>
+</outCome>
+</match>

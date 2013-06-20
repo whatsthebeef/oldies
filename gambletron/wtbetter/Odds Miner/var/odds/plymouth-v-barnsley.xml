@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Plymouth" bestOdds="2.50">
+   <odds bookie="1026878917_B3" dodds_bslip="2.5"/>
+   <odds bookie="1026878917_SK" dodds_bslip="2.5"/>
+   <odds bookie="1026878917_BX" dodds_bslip="2.3"/>
+   <odds bookie="1026878917_BY" dodds_bslip="2.4"/>
+   <odds bookie="1026878917_FR" dodds_bslip="2.25"/>
+   <odds bookie="1026878917_SO" dodds_bslip="0"/>
+   <odds bookie="1026878917_VC" dodds_bslip="2.38"/>
+   <odds bookie="1026878917_BS" dodds_bslip="2.38"/>
+   <odds bookie="1026878917_PP" dodds_bslip="2.4"/>
+   <odds bookie="1026878917_SJ" dodds_bslip="2.5"/>
+   <odds bookie="1026878917_EE" dodds_bslip="2.38"/>
+   <odds bookie="1026878917_EX" dodds_bslip="2.4"/>
+   <odds bookie="1026878917_BW" dodds_bslip="2.4"/>
+   <odds bookie="1026878917_LD" dodds_bslip="0"/>
+   <odds bookie="1026878917_CE" dodds_bslip="2.25"/>
+   <odds bookie="1026878917_WH" dodds_bslip="2.3"/>
+   <odds bookie="1026878917_IG" dodds_bslip="0"/>
+   <odds bookie="1026878917_BF" dodds_bslip="2.6"/>
+   <odds bookie="1026878917_WB" dodds_bslip="2.34"/>
+   <odds bookie="1026878917_BD" dodds_bslip="2.59"/>
+   <odds bookie="1026878917_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Barnsley" bestOdds="2.88">
+   <odds bookie="1026878911_B3" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_SK" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_BX" dodds_bslip="2.7"/>
+   <odds bookie="1026878911_BY" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_FR" dodds_bslip="2.75"/>
+   <odds bookie="1026878911_SO" dodds_bslip="0"/>
+   <odds bookie="1026878911_VC" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_BS" dodds_bslip="2.75"/>
+   <odds bookie="1026878911_PP" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_SJ" dodds_bslip="2.6"/>
+   <odds bookie="1026878911_EE" dodds_bslip="2.75"/>
+   <odds bookie="1026878911_EX" dodds_bslip="2.8"/>
+   <odds bookie="1026878911_BW" dodds_bslip="2.7"/>
+   <odds bookie="1026878911_LD" dodds_bslip="0"/>
+   <odds bookie="1026878911_CE" dodds_bslip="2.75"/>
+   <odds bookie="1026878911_WH" dodds_bslip="2.62"/>
+   <odds bookie="1026878911_IG" dodds_bslip="0"/>
+   <odds bookie="1026878911_BF" dodds_bslip="2.88"/>
+   <odds bookie="1026878911_WB" dodds_bslip="2.8"/>
+   <odds bookie="1026878911_BD" dodds_bslip="2.87"/>
+   <odds bookie="1026878911_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.30">
+   <odds bookie="1026878914_B3" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_SK" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_BX" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_BY" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_FR" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_SO" dodds_bslip="0"/>
+   <odds bookie="1026878914_VC" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_BS" dodds_bslip="3.3"/>
+   <odds bookie="1026878914_PP" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_SJ" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_EE" dodds_bslip="3.3"/>
+   <odds bookie="1026878914_EX" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_BW" dodds_bslip="3.05"/>
+   <odds bookie="1026878914_LD" dodds_bslip="0"/>
+   <odds bookie="1026878914_CE" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_WH" dodds_bslip="3.2"/>
+   <odds bookie="1026878914_IG" dodds_bslip="0"/>
+   <odds bookie="1026878914_BF" dodds_bslip="3.3"/>
+   <odds bookie="1026878914_WB" dodds_bslip="3.3"/>
+   <odds bookie="1026878914_BD" dodds_bslip="3.25"/>
+   <odds bookie="1026878914_SI" dodds_bslip=""/>
+</outCome>
+</match>

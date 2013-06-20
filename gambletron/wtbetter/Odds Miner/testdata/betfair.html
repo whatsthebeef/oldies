@@ -1,0 +1,495 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf540
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ql\qnatural
+
+\f0\fs20 \cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">\
+\
+<html>\
+	<head>\
+		\
+\
+\
+\
+\
+<script language="Javascript">\
+<!--\
+document.domain = "betfair.com";\
+\
+\
+\
+var exchangeCount = 2;\
+\
+//-->\
+</script>\
+\
+		<link rel="Start" title="Main site" type="text/html" href="http://betting.betfair.com/" />\
+		<link rel="search" title="Main site" type="text/html" href="http://betting.betfair.com/" />\
+		<link rel="bookmark" title="Main site" type="text/html" href="http://betting.betfair.com/" />\
+		<link rel="alternate" title="Main site"type="text/html" href="http://betting.betfair.com/" />\
+		<title>Betfair.com: Online Betting, Sports Betting, Horse Racing, Football | Bet Poker, Casino & Games</title>\
+		<meta name="description" lang="en" content="Online sports betting: Win up to 20% more - live in-play, best odds on Sports, Football and Horse Racing. For safe and secure betting, Casino, Games and Poker - enter now.">\
+		<meta name="keywords" lang="en" content="bet online, sports betting, bet, betting, football betting, horse racing betting, football odds">\
+		<meta name="robots" content="index,follow">\
+		<meta http-equiv="expires" content="-1">\
+		<meta http-equiv="content-type" charset="UTF-8">\
+		<link rel="meta" href="http://www.betfair.com/labels.rdf" type="application/rdf+xml" title="ICRA labels" />\
+		<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://betfair.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 3)\
+		gen true for "http://www.betfair.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 3))' />\
+		<link rel="shortcut icon" href="http://cache.betfair.com/favicon.ico">\
+\
+<!--\
+Entry: soccer\
+Mask: null\
+Domain: betfair.com\
+DocDomain: betfair.com\
+-->\
+		<script type="text/javascript">\
+		\
+\
+\
+\
+\
+\
+\
+\
+function WebAppInfo(topDomain, contentDomain)\{\
+	this.topDomain = topDomain;\
+	this.contentDomain = contentDomain;\
+	this.paths = new Array();\
+\}\
+\
+WebAppInfo.prototype.addPath = function(pathName, servletPath)\{\
+	this.paths[pathName] = servletPath;\
+\}\
+WebAppInfo.prototype.getPath = function(pathName)\{\
+	return this.paths[pathName];\
+\}\
+WebAppInfo.prototype.constructContentUrl = function(pathName)\{\
+	if (this.paths[pathName])\{\
+		return (this.contentDomain + this.paths[pathName]);\
+	\}\
+	return this.contentDomain + "/" + pathName;\
+\}\
+\
+\
+function DomainManager()\{\
+	this.domains = new Array();\
+\}\
+\
+DomainManager.prototype.addApplication = function(appName, webAppInfo)\{\
+	this.domains[appName] = webAppInfo;\
+\}\
+DomainManager.prototype.getApplication = function(appName)\{\
+	return this.domains[appName];\
+\}\
+DomainManager.prototype.constructUrl = function(appName,isSecure)\{\
+	if (this.domains[appName])\{\
+		return this.makeSecure(this.domains[appName].contentDomain, isSecure);\
+	\}\
+\}\
+DomainManager.prototype.constructUrlWithPath = function(appName,pathName,isSecure)\{\
+	if (this.domains[appName])\{\
+		return this.makeSecure(this.domains[appName].constructContentUrl(pathName), isSecure);\
+	\}\
+\}\
+DomainManager.prototype.getTopDomain = function(appName)\{\
+	if (this.domains[appName])\{\
+		return this.domains[appName].topDomain;\
+	\}\
+\}\
+DomainManager.prototype.makeSecure = function(url,isSecure)\{\
+	if(isSecure) \{\
+		return 'https://' + url;\
+	\}\
+	else \{\
+		return 'http://' + url;\
+	\}\
+\}\
+\
+// config\
+var domainManager = new DomainManager();\
+\
+domainManager.addApplication('portal',new WebAppInfo('www.betfair.com','soccer.betfair.com'));\
+domainManager.getApplication('portal').addPath('wallettx', '/myaccount/wallet/TransferView.do?sizeX=520&sizeY=520');\
+domainManager.getApplication('portal').addPath('home', '/PortalHomePage.do');\
+domainManager.getApplication('portal').addPath('forum', '/account/ForumRedirect.do');\
+domainManager.getApplication('portal').addPath('myaccount', '/myaccount/account/MyAccount.do');\
+domainManager.getApplication('portal').addPath('openaccount', '/myaccount/account/registration/BeginRegistration.do');\
+domainManager.getApplication('portal').addPath('lostpasswd', '/account/forgotpassword/ForgottenPassword.do?method=initialise');\
+\
+domainManager.addApplication('myaccount',new WebAppInfo('soccer.betfair.com','soccer.betfair.com/myaccount'));\
+domainManager.getApplication('myaccount').addPath('cardCountries', '/payment/CardCountries.do');\
+domainManager.getApplication('myaccount').addPath('cardPolicy', '/payment/CardPolicy.do');\
+domainManager.getApplication('myaccount').addPath('cvv2', '/payment/Cv2.do');\
+\
+domainManager.addApplication('games',new WebAppInfo('games.betfair.com','site.games.betfair.com'));\
+domainManager.getApplication('games').addPath('wallettx', '/gamex/DepositFundsPopup.do?sizeX=420&sizeY=360');\
+domainManager.getApplication('games').addPath('doLogout', '/account/login/GamesLogoutAction.do');\
+domainManager.getApplication('games').addPath('mygamesaccount', '/account/MyAccount.do?tabID=1&sizeX=788&sizeY=500');\
+\
+domainManager.addApplication('poker',new WebAppInfo('poker.betfair.com','site.poker.betfair.com'));\
+\
+domainManager.addApplication('casino',new WebAppInfo('casino.betfair.com','site.casino.betfair.com'));\
+domainManager.getApplication('casino').addPath('wallettx', '/MyAccount.do?panel=transferin&sizeX=600&sizeY=800');\
+domainManager.getApplication('casino').addPath('doLogout', '/account/login/LogoutAction.do');\
+domainManager.getApplication('casino').addPath('mycasinoaccount', '/TransferHistory.do?page=1&menu=transferhistory&sizeX=800&sizeY=600');\
+domainManager.getApplication('casino').addPath('popLogoutTx', '/account/logout/CheckBalanceAction.do?transferFundsQuestion=true&sizeX=800&sizeY=600');\
+\
+domainManager.addApplication('arcade',new WebAppInfo('arcade.betfair.com','site.arcade.betfair.com'));\
+domainManager.getApplication('arcade').addPath('myarcadeaccount', '/portal?action=GoHist&sizeX=800&sizeY=600');\
+\
+domainManager.addApplication('financials',new WebAppInfo('financials.betfair.com','content.betfair.com/content/en_GB/portal/misc/financials.homepage.html'));\
+\
+domainManager.addApplication('forum',new WebAppInfo('forum.betfair.com','site.forum.betfair.com/jive3'));\
+\
+domainManager.addApplication('sports',new WebAppInfo('sports.betfair.com','site.sports.betfair.com'));\
+\
+domainManager.addApplication('payment',new WebAppInfo('payment.betfair.com','site.payment.betfair.com'));\
+\
+domainManager.addApplication('multiplesaus',new WebAppInfo('multiples.au.betfair.com','site.multiples.au.betfair.com'));\
+\
+domainManager.addApplication('multiples',new WebAppInfo('multiples.betfair.com','site.sports.betfair.com/?mHome'));\
+\
+domainManager.addApplication('othersports',new WebAppInfo('othersports.betfair.com','othersports.betfair.com'));\
+\
+domainManager.addApplication('account',new WebAppInfo('account.betfair.com','account.betfair.com'));\
+domainManager.getApplication('account').addPath('openaccount', '/account-web/registerAccount.html');\
+\
+domainManager.addApplication('extras',new WebAppInfo('extras.betfair.com','site.extras.betfair.com'));\
+\
+domainManager.addApplication('content',new WebAppInfo('content.betfair.com','content.betfair.com'));\
+\
+domainManager.addApplication('widgets',new WebAppInfo('site.sports.betfair.com','site.sports.betfair.com'));\
+\
+domainManager.addApplication('soccer',new WebAppInfo('soccer.betfair.com','site.soccer.betfair.com?ti=1'));\
+\
+domainManager.addApplication('tennis',new WebAppInfo('tennis.betfair.com','site.tennis.betfair.com?ti=2'));\
+\
+domainManager.addApplication('golf',new WebAppInfo('golf.betfair.com','site.golf.betfair.com?ti=3'));\
+\
+domainManager.addApplication('cricket',new WebAppInfo('cricket.betfair.com','site.cricket.betfair.com?ti=4'));\
+\
+domainManager.addApplication('rugbyunion',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=5'));\
+\
+domainManager.addApplication('horseracing',new WebAppInfo('horseracing.betfair.com','site.horseracing.betfair.com?ti=7'));\
+\
+domainManager.addApplication('motorsport',new WebAppInfo('motorsport.betfair.com','site.motorsport.betfair.com?ti=8'));\
+\
+domainManager.addApplication('horseracingtodayscard',new WebAppInfo('horseracingtodayscard.betfair.com','site.horseracingtodayscard.betfair.com?ti=13'));\
+\
+domainManager.addApplication('soccerfixtures',new WebAppInfo('soccerfixtures.betfair.com','site.soccerfixtures.betfair.com?ti=14'));\
+\
+domainManager.addApplication('greyhoundstodayscard',new WebAppInfo('greyhoundstodayscard.betfair.com','site.greyhoundstodayscard.betfair.com?ti=15'));\
+\
+domainManager.addApplication('darts',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=3503'));\
+\
+domainManager.addApplication('greyhounds',new WebAppInfo('greyhounds.betfair.com','site.greyhounds.betfair.com?ti=4339'));\
+\
+domainManager.addApplication('snooker',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=6422'));\
+\
+domainManager.addApplication('americanfootball',new WebAppInfo('americanfootball.betfair.com','site.americanfootball.betfair.com?ti=6423'));\
+\
+domainManager.addApplication('baseball',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=7511'));\
+\
+domainManager.addApplication('basketball',new WebAppInfo('basketball.betfair.com','site.basketball.betfair.com?ti=7522'));\
+\
+domainManager.addApplication('icehockey',new WebAppInfo('icehockey.betfair.com','site.icehockey.betfair.com?ti=7524'));\
+\
+domainManager.addApplication('australianrules',new WebAppInfo('australianrules.betfair.com','site.australianrules.betfair.com?ti=61420'));\
+\
+domainManager.addApplication('volleyball',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=998917'));\
+\
+domainManager.addApplication('gaelicgames',new WebAppInfo('gaelicgames.betfair.com','site.gaelicgames.betfair.com?ti=2152880'));\
+\
+domainManager.addApplication('politics',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?ti=2378961'));\
+\
+domainManager.addApplication('toteirl',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=IRL'));\
+\
+domainManager.addApplication('toteuk',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=UK'));\
+\
+domainManager.addApplication('tote',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=UK'));\
+\
+domainManager.addApplication('toteaus',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=AUS'));\
+\
+domainManager.addApplication('totersa',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=RSA'));\
+\
+domainManager.addApplication('toteusa',new WebAppInfo('sports.betfair.com','site.sports.betfair.com?toteID=USA'));\
+\
+\
+		</script>\
+\
+\
+		<script type="text/javascript" src="http://soccer.betfair.com/SpawningLibrary.do?timeZone=Europe/London&region=GBR&locale=en_GB&brand=betfair&currency=GBP"></script>\
+\
+		<!--BEGIN_EXCLUDE--><script type="text/javascript" src="http://www.betfair.com/SpeedTrapScript.do"></script><!--END_EXCLUDE-->\
+		\
+		\
+\
+\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/user/InterfacesUserModel.js'  ></script>\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/betting/Helpers.js'  ></script>\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/js/Prototype.js'  ></script>\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/user/Utilities.js'  ></script>\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/user/UserModel.js'  ></script>\
+	<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/js/Logging.js'  ></script>\
+\
+		\
+		\
+			<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/portal/SpawnConfig.js'  ></script>\
+			<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/portal/Spawn.js'  ></script>\
+			<script type='text/javascript' src='http://cache.betfair.com/9.8.4-15/portal/Perform.js'  ></script>\
+\
+		\
+		\
+		<script type="text/javascript">\
+		\
+		\
+		var productName = "soccer";\
+		var oUser = interfaces_getNewUser('en_GB', 'GBR', 'Europe/London', 'GBP', 2.0, 10.0, 100.0, 1000.0, 5000.0, true, false, false, false, false, 'BEST', true, 'RED', 'LIABILITY', true, true, false, true, true, true, false, 'EXCHANGE', true, false, null, null, null, null, null, null, true, true, false, true, true, true, false, 'NONE', true, true, true, true, true, true, true, 'PL1OO0HD0LM0SZ0PO1HR0CP0', true, true, true, false, false, true, true, 'COMPACT', true, true, 'MAX', 'EXCHANGE', 'null')\
+;\
+		var uiIsDisabled = false;\
+		\
+		\
+		function interfaces_getCurrentUser()\{\
+			return top.oUser;\
+		\}\
+		\
+		function interfaces_setCurrentUser(user)\{\
+			top.oUser = user;\
+		\}\
+		\
+		function interfaces_isUiDisabled()\{\
+			return uiIsDisabled;\
+		\}\
+		\
+		function interfaces_setUiDisabled(isDisabled)\{\
+			self.uiIsDisabled = isDisabled;\
+		\}\
+		\
+		\
+		\
+		function interfaces_getHeaderFrame()\{\
+			return top.frames['header'];\
+		\}\
+		\
+		function interfaces_getHeaderCmsFrame()\{\
+			try \{\
+				return interfaces_getHeaderFrame().frames['Nav'];\
+			\}\
+			catch(x)\{\
+\
+			\}\
+		\}\
+		\
+		function interfaces_getContentFrame() \{\
+			return top.frames['Content'];\
+		\}\
+		\
+		function interfaces_getSubNavFrame() \{\
+			try \{\
+				return interfaces_getContentFrame().frames['SubNav'];\
+			\}\
+			catch(x) \{\
+\
+			\}\
+		\}\
+		\
+		function interfaces_getSubNavCmsFrame()\{\
+			try \{\
+				return interfaces_getSubNavFrame().frames['SubNavCMS'];\
+			\}\
+			catch(x) \{\
+\
+			\}\
+		\}\
+		\
+		function setHeaderCmsFrameCss(clazz,count)\{\
+\
+			try \{\
+				var headerCms = interfaces_getHeaderCmsFrame();\
+				if (headerCms)\{\
+					headerCms.document.body.className = clazz;\
+				\}\
+\
+			\}\
+			catch (x) \{\
+				if (count++ < 4)\{\
+					setTimeout("setHeaderCmsFrameCss('" + clazz + "'," + count + ")", (250 * count));\
+				\}\
+\
+			\}\
+		\}\
+		\
+		\
+		var func = "interfaces" + "_debug";\
+		if (typeof(top[func]) == "undefined") \{\
+			top[func] = function() \{ \};\
+			top.LOG_LEVELS=\{\};\
+		\}\
+		\
+		\
+		function handleLoginEvent(isLoggedIn, isSuspended, newUser, doRefresh, ozHelpUrl, isUserNonAgeVerified, isAgeVerificationSuspension) \{\
+			\
+			if (top.interfaces_getCurrentUser().loggedIn) \{\
+				return;\
+			\}\
+			\
+\
+			try \{\
+				// update header view, reload if new language is required, etc.\
+				interfaces_getHeaderFrame().handleLoginEvent(isLoggedIn, isSuspended, newUser, doRefresh, ozHelpUrl, isUserNonAgeVerified, isAgeVerificationSuspension);\
+			\}\
+			catch (x)\{\
+			\}\
+			\
+			var oldUser = interfaces_getCurrentUser();\
+			interfaces_setCurrentUser(new cloneObject(newUser));\
+		 	newUser = new cloneObject(newUser);\
+		\
+			if (!isLoggedIn) \{\
+				return alert(isSuspended);\
+			\}\
+			else \{\
+				if (isSuspended) \{\
+\
+					if (isUserNonAgeVerified && !isAgeVerificationSuspension) \{\
+						var ageVerificationWindow = null;\
+\
+						try \{\
+							if ( confirm(isSuspended) )\{\
+								//Display the MyAccount window with the Age Verification modal on top. \
+								top.Spawn.spawn('myAccountAgeVerification');								\
+							\}\
+						\}\
+						catch(x) \{\
+						\}\
+					\} if (isUserNonAgeVerified && isAgeVerificationSuspension) \{\
+						alert(isSuspended);\
+\
+						//Display the MyAccount window with the Age Verification modal on top. \
+						top.Spawn.spawn('myAccountAgeVerification');								\
+\
+					\} else if (!isUserNonAgeVerified && !isAgeVerificationSuspension) \{\
+						alert(isSuspended);\
+					\}\
+\
+					if (ozHelpUrl) \{\
+						var australianWindow = null;\
+						try \{\
+							australianWindow = window.open(ozHelpUrl, "australianHelpWindow", "menubar=no,toolbar=no");\
+						\}\
+						catch(x) \{\
+						\}\
+						if (australianWindow == null) \{\
+							top.location.href= ozHelpUrl;\
+						\}\
+					\}\
+				\}\
+\
+				if ((doRefresh != "" && !doRefresh) || doRefresh == null) \{\
+					try \{\
+						var contentFrame = interfaces_getContentFrame();\
+						if (contentFrame && contentFrame.interfaces_completeProductLogin) \{\
+							contentFrame.interfaces_completeProductLogin(oldUser, newUser, interfaces_getUserState(newUser));\
+						\}\
+					\}\
+					catch (x)\{\
+\
+					\}\
+				\}\
+		\
+				try \{\
+					var contentFrame = interfaces_getContentFrame();\
+					if (contentFrame && contentFrame.interface_handleLoginEvent)\{\
+						contentFrame.interface_handleLoginEvent();\
+					\}\
+				\}\
+				catch (x)\{\
+\
+				\}\
+		\
+			\}\
+\
+		\}\
+		function interfaces_changeLanguage(selectBox) \{\
+\
+			if(top.interfaces_isUiDisabled()) \{\
+				return;\
+			\}\
+			var optionValue = selectBox.options[selectBox.selectedIndex].value;\
+			var locale = optionValue.split(",")[0];\
+			var region;\
+			var sUrl = "";\
+			if (optionValue.indexOf(",") != -1) \{\
+				var region = optionValue.split(",")[1];\
+			\}\
+			// for german domain swapping\
+			var queryString = top.location.href.split("?");\
+			if (queryString.length > 1) \{\
+				var params = queryString[1].split("&");\
+				for (var i = 0 ; i < params.length ; i++) \{\
+					if (params[i].indexOf("pi.localeId=") < 0 && params[i].indexOf("pi.regionId=") < 0 &&\
+							params[i].indexOf("target=") < 0) \{\
+						sUrl += params[i] + "&";\
+					\}\
+				\}\
+			\}\
+			if (!region) \{\
+				sUrl = sUrl + "pi.localeId=" + locale;\
+			\}\
+			else \{\
+				sUrl = sUrl + "pi.localeId=" + locale + "&pi.regionId=" + region;\
+			\}\
+			\
+			\
+			FILogger('HLS', false, "pi.localeId", locale, "pi.regionId", region);\
+\
+			\
+			top.location.href = top.location.protocol + "//" + top.location.host + "/?" + sUrl + "&target=" + top.header.document.body.className;\
+		\}		\
+		\
+		function interfaces_logout() \{\
+			top.header.exitCheck();\
+		\}\
+		\
+		function checkJoinNow() \{\
+			if (!interfaces_getUserState(oUser)) \{\
+		\
+			\}\
+		\}\
+		\
+		function synchClasses() \{\
+					try \{\
+						top.header.Nav.backButton();\
+					\} catch (e) \{\
+						// full page refresh - the classes will be correct, don't worry\
+					\}\
+		\}		\
+		</script>\
+	</head>\
+	\
+	<frameset onload="checkJoinNow();" rows="90,*,0" framespacing="0" frameborder="0">\
+		<frame src="http://soccer.betfair.com/Header.do?target=soccer" id="header" name="header" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" width="500" noresize />\
+		<frame src="http://site.soccer.betfair.com?ti=1" onLoad="synchClasses();" id="Content" name="Content" noresize />\
+		<frame src="http://cache.betfair.com/blank.jsp" name="userManager" id="userManager" frameborder="0" scrolling="No" marginwidth="0" marginheight="0" noresize />\
+		<noframes>\
+				At Betfair.com you can Bet Online for Sports Betting, Horse Racing and Football with the best football odds. You can also bet on Online Poker, Casino & Exchange Games. <br>\
+				<a href="http://forum.betfair.com" target="_top">Betting Forums</a> | \
+				<a href="http://betting.betfair.com" target="_top">Betting</a>\
+		</noframes>	\
+	</frameset>\
+</html>}

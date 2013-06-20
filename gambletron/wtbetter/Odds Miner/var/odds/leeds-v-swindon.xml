@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Leeds" bestOdds="1.91">
+   <odds bookie="1037105161_B3" dodds_bslip="1.91"/>
+   <odds bookie="1037105161_SK" dodds_bslip="1.91"/>
+   <odds bookie="1037105161_BX" dodds_bslip="0"/>
+   <odds bookie="1037105161_BY" dodds_bslip="0"/>
+   <odds bookie="1037105161_FR" dodds_bslip="0"/>
+   <odds bookie="1037105161_SO" dodds_bslip="0"/>
+   <odds bookie="1037105161_VC" dodds_bslip="1.91"/>
+   <odds bookie="1037105161_BS" dodds_bslip="0"/>
+   <odds bookie="1037105161_PP" dodds_bslip="0"/>
+   <odds bookie="1037105161_SJ" dodds_bslip="0"/>
+   <odds bookie="1037105161_EE" dodds_bslip="0"/>
+   <odds bookie="1037105161_EX" dodds_bslip="0"/>
+   <odds bookie="1037105161_BW" dodds_bslip="0"/>
+   <odds bookie="1037105161_LD" dodds_bslip="0"/>
+   <odds bookie="1037105161_CE" dodds_bslip="0"/>
+   <odds bookie="1037105161_WH" dodds_bslip="0"/>
+   <odds bookie="1037105161_IG" dodds_bslip="0"/>
+   <odds bookie="1037105161_BF" dodds_bslip="1.8"/>
+   <odds bookie="1037105161_WB" dodds_bslip="0"/>
+   <odds bookie="1037105161_BD" dodds_bslip="0"/>
+   <odds bookie="1037105161_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.40">
+   <odds bookie="1037105164_B3" dodds_bslip="3.4"/>
+   <odds bookie="1037105164_SK" dodds_bslip="3.4"/>
+   <odds bookie="1037105164_BX" dodds_bslip="0"/>
+   <odds bookie="1037105164_BY" dodds_bslip="0"/>
+   <odds bookie="1037105164_FR" dodds_bslip="0"/>
+   <odds bookie="1037105164_SO" dodds_bslip="0"/>
+   <odds bookie="1037105164_VC" dodds_bslip="3.25"/>
+   <odds bookie="1037105164_BS" dodds_bslip="0"/>
+   <odds bookie="1037105164_PP" dodds_bslip="0"/>
+   <odds bookie="1037105164_SJ" dodds_bslip="0"/>
+   <odds bookie="1037105164_EE" dodds_bslip="0"/>
+   <odds bookie="1037105164_EX" dodds_bslip="0"/>
+   <odds bookie="1037105164_BW" dodds_bslip="0"/>
+   <odds bookie="1037105164_LD" dodds_bslip="0"/>
+   <odds bookie="1037105164_CE" dodds_bslip="0"/>
+   <odds bookie="1037105164_WH" dodds_bslip="0"/>
+   <odds bookie="1037105164_IG" dodds_bslip="0"/>
+   <odds bookie="1037105164_BF" dodds_bslip="3.4"/>
+   <odds bookie="1037105164_WB" dodds_bslip="0"/>
+   <odds bookie="1037105164_BD" dodds_bslip="0"/>
+   <odds bookie="1037105164_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Swindon" bestOdds="4.20">
+   <odds bookie="1037105152_B3" dodds_bslip="3.6"/>
+   <odds bookie="1037105152_SK" dodds_bslip="4.2"/>
+   <odds bookie="1037105152_BX" dodds_bslip="0"/>
+   <odds bookie="1037105152_BY" dodds_bslip="0"/>
+   <odds bookie="1037105152_FR" dodds_bslip="0"/>
+   <odds bookie="1037105152_SO" dodds_bslip="0"/>
+   <odds bookie="1037105152_VC" dodds_bslip="4"/>
+   <odds bookie="1037105152_BS" dodds_bslip="0"/>
+   <odds bookie="1037105152_PP" dodds_bslip="0"/>
+   <odds bookie="1037105152_SJ" dodds_bslip="0"/>
+   <odds bookie="1037105152_EE" dodds_bslip="0"/>
+   <odds bookie="1037105152_EX" dodds_bslip="0"/>
+   <odds bookie="1037105152_BW" dodds_bslip="0"/>
+   <odds bookie="1037105152_LD" dodds_bslip="0"/>
+   <odds bookie="1037105152_CE" dodds_bslip="0"/>
+   <odds bookie="1037105152_WH" dodds_bslip="0"/>
+   <odds bookie="1037105152_IG" dodds_bslip="0"/>
+   <odds bookie="1037105152_BF" dodds_bslip="3.4"/>
+   <odds bookie="1037105152_WB" dodds_bslip="0"/>
+   <odds bookie="1037105152_BD" dodds_bslip="0"/>
+   <odds bookie="1037105152_SI" dodds_bslip=""/>
+</outCome>
+</match>

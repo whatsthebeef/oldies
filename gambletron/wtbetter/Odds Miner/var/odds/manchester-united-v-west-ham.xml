@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Manchester United" bestOdds="1.20">
+   <odds bookie="921719110_B3" dodds_bslip="1.17"/>
+   <odds bookie="921719110_SK" dodds_bslip="0"/>
+   <odds bookie="921719110_BX" dodds_bslip="0"/>
+   <odds bookie="921719110_BY" dodds_bslip="0"/>
+   <odds bookie="921719110_FR" dodds_bslip="0"/>
+   <odds bookie="921719110_SO" dodds_bslip="0"/>
+   <odds bookie="921719110_VC" dodds_bslip="1.17"/>
+   <odds bookie="921719110_BS" dodds_bslip="0"/>
+   <odds bookie="921719110_PP" dodds_bslip="0"/>
+   <odds bookie="921719110_SJ" dodds_bslip="0"/>
+   <odds bookie="921719110_EE" dodds_bslip="0"/>
+   <odds bookie="921719110_EX" dodds_bslip="0"/>
+   <odds bookie="921719110_BW" dodds_bslip="1.2"/>
+   <odds bookie="921719110_LD" dodds_bslip="0"/>
+   <odds bookie="921719110_CE" dodds_bslip="0"/>
+   <odds bookie="921719110_WH" dodds_bslip="0"/>
+   <odds bookie="921719110_IG" dodds_bslip="0"/>
+   <odds bookie="921719110_BF" dodds_bslip="1.2"/>
+   <odds bookie="921719110_WB" dodds_bslip="0"/>
+   <odds bookie="921719110_BD" dodds_bslip="0"/>
+   <odds bookie="921719110_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="6.50">
+   <odds bookie="921719119_B3" dodds_bslip="6.5"/>
+   <odds bookie="921719119_SK" dodds_bslip="0"/>
+   <odds bookie="921719119_BX" dodds_bslip="0"/>
+   <odds bookie="921719119_BY" dodds_bslip="0"/>
+   <odds bookie="921719119_FR" dodds_bslip="0"/>
+   <odds bookie="921719119_SO" dodds_bslip="0"/>
+   <odds bookie="921719119_VC" dodds_bslip="6.5"/>
+   <odds bookie="921719119_BS" dodds_bslip="0"/>
+   <odds bookie="921719119_PP" dodds_bslip="0"/>
+   <odds bookie="921719119_SJ" dodds_bslip="0"/>
+   <odds bookie="921719119_EE" dodds_bslip="0"/>
+   <odds bookie="921719119_EX" dodds_bslip="0"/>
+   <odds bookie="921719119_BW" dodds_bslip="6"/>
+   <odds bookie="921719119_LD" dodds_bslip="0"/>
+   <odds bookie="921719119_CE" dodds_bslip="0"/>
+   <odds bookie="921719119_WH" dodds_bslip="0"/>
+   <odds bookie="921719119_IG" dodds_bslip="0"/>
+   <odds bookie="921719119_BF" dodds_bslip="7.6"/>
+   <odds bookie="921719119_WB" dodds_bslip="0"/>
+   <odds bookie="921719119_BD" dodds_bslip="0"/>
+   <odds bookie="921719119_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="West Ham" bestOdds="15.00">
+   <odds bookie="921719104_B3" dodds_bslip="15"/>
+   <odds bookie="921719104_SK" dodds_bslip="0"/>
+   <odds bookie="921719104_BX" dodds_bslip="0"/>
+   <odds bookie="921719104_BY" dodds_bslip="0"/>
+   <odds bookie="921719104_FR" dodds_bslip="0"/>
+   <odds bookie="921719104_SO" dodds_bslip="0"/>
+   <odds bookie="921719104_VC" dodds_bslip="15"/>
+   <odds bookie="921719104_BS" dodds_bslip="0"/>
+   <odds bookie="921719104_PP" dodds_bslip="0"/>
+   <odds bookie="921719104_SJ" dodds_bslip="0"/>
+   <odds bookie="921719104_EE" dodds_bslip="0"/>
+   <odds bookie="921719104_EX" dodds_bslip="0"/>
+   <odds bookie="921719104_BW" dodds_bslip="12"/>
+   <odds bookie="921719104_LD" dodds_bslip="0"/>
+   <odds bookie="921719104_CE" dodds_bslip="0"/>
+   <odds bookie="921719104_WH" dodds_bslip="0"/>
+   <odds bookie="921719104_IG" dodds_bslip="0"/>
+   <odds bookie="921719104_BF" dodds_bslip="23"/>
+   <odds bookie="921719104_WB" dodds_bslip="0"/>
+   <odds bookie="921719104_BD" dodds_bslip="0"/>
+   <odds bookie="921719104_SI" dodds_bslip=""/>
+</outCome>
+</match>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Tottenham" bestOdds="1.95">
+   <odds bookie="924572239_B3" dodds_bslip="0"/>
+   <odds bookie="924572239_SK" dodds_bslip="0"/>
+   <odds bookie="924572239_BX" dodds_bslip="0"/>
+   <odds bookie="924572239_BY" dodds_bslip="0"/>
+   <odds bookie="924572239_FR" dodds_bslip="0"/>
+   <odds bookie="924572239_SO" dodds_bslip="0"/>
+   <odds bookie="924572239_VC" dodds_bslip="1.95"/>
+   <odds bookie="924572239_BS" dodds_bslip="0"/>
+   <odds bookie="924572239_PP" dodds_bslip="0"/>
+   <odds bookie="924572239_SJ" dodds_bslip="0"/>
+   <odds bookie="924572239_EE" dodds_bslip="0"/>
+   <odds bookie="924572239_EX" dodds_bslip="0"/>
+   <odds bookie="924572239_BW" dodds_bslip="0"/>
+   <odds bookie="924572239_LD" dodds_bslip="0"/>
+   <odds bookie="924572239_CE" dodds_bslip="0"/>
+   <odds bookie="924572239_WH" dodds_bslip="0"/>
+   <odds bookie="924572239_IG" dodds_bslip="0"/>
+   <odds bookie="924572239_BF" dodds_bslip="1.88"/>
+   <odds bookie="924572239_WB" dodds_bslip="0"/>
+   <odds bookie="924572239_BD" dodds_bslip="0"/>
+   <odds bookie="924572239_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.40">
+   <odds bookie="924572242_B3" dodds_bslip="0"/>
+   <odds bookie="924572242_SK" dodds_bslip="0"/>
+   <odds bookie="924572242_BX" dodds_bslip="0"/>
+   <odds bookie="924572242_BY" dodds_bslip="0"/>
+   <odds bookie="924572242_FR" dodds_bslip="0"/>
+   <odds bookie="924572242_SO" dodds_bslip="0"/>
+   <odds bookie="924572242_VC" dodds_bslip="3.4"/>
+   <odds bookie="924572242_BS" dodds_bslip="0"/>
+   <odds bookie="924572242_PP" dodds_bslip="0"/>
+   <odds bookie="924572242_SJ" dodds_bslip="0"/>
+   <odds bookie="924572242_EE" dodds_bslip="0"/>
+   <odds bookie="924572242_EX" dodds_bslip="0"/>
+   <odds bookie="924572242_BW" dodds_bslip="0"/>
+   <odds bookie="924572242_LD" dodds_bslip="0"/>
+   <odds bookie="924572242_CE" dodds_bslip="0"/>
+   <odds bookie="924572242_WH" dodds_bslip="0"/>
+   <odds bookie="924572242_IG" dodds_bslip="0"/>
+   <odds bookie="924572242_BF" dodds_bslip="3.45"/>
+   <odds bookie="924572242_WB" dodds_bslip="0"/>
+   <odds bookie="924572242_BD" dodds_bslip="0"/>
+   <odds bookie="924572242_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Everton" bestOdds="3.60">
+   <odds bookie="924572236_B3" dodds_bslip="0"/>
+   <odds bookie="924572236_SK" dodds_bslip="0"/>
+   <odds bookie="924572236_BX" dodds_bslip="0"/>
+   <odds bookie="924572236_BY" dodds_bslip="0"/>
+   <odds bookie="924572236_FR" dodds_bslip="0"/>
+   <odds bookie="924572236_SO" dodds_bslip="0"/>
+   <odds bookie="924572236_VC" dodds_bslip="3.6"/>
+   <odds bookie="924572236_BS" dodds_bslip="0"/>
+   <odds bookie="924572236_PP" dodds_bslip="0"/>
+   <odds bookie="924572236_SJ" dodds_bslip="0"/>
+   <odds bookie="924572236_EE" dodds_bslip="0"/>
+   <odds bookie="924572236_EX" dodds_bslip="0"/>
+   <odds bookie="924572236_BW" dodds_bslip="0"/>
+   <odds bookie="924572236_LD" dodds_bslip="0"/>
+   <odds bookie="924572236_CE" dodds_bslip="0"/>
+   <odds bookie="924572236_WH" dodds_bslip="0"/>
+   <odds bookie="924572236_IG" dodds_bslip="0"/>
+   <odds bookie="924572236_BF" dodds_bslip="3.8"/>
+   <odds bookie="924572236_WB" dodds_bslip="0"/>
+   <odds bookie="924572236_BD" dodds_bslip="0"/>
+   <odds bookie="924572236_SI" dodds_bslip=""/>
+</outCome>
+</match>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="West Brom" bestOdds="1.67">
+   <odds bookie="1036166065_B3" dodds_bslip="1.62"/>
+   <odds bookie="1036166065_SK" dodds_bslip="1.67"/>
+   <odds bookie="1036166065_BX" dodds_bslip="0"/>
+   <odds bookie="1036166065_BY" dodds_bslip="0"/>
+   <odds bookie="1036166065_FR" dodds_bslip="0"/>
+   <odds bookie="1036166065_SO" dodds_bslip="0"/>
+   <odds bookie="1036166065_VC" dodds_bslip="1.62"/>
+   <odds bookie="1036166065_BS" dodds_bslip="0"/>
+   <odds bookie="1036166065_PP" dodds_bslip="0"/>
+   <odds bookie="1036166065_SJ" dodds_bslip="0"/>
+   <odds bookie="1036166065_EE" dodds_bslip="0"/>
+   <odds bookie="1036166065_EX" dodds_bslip="0"/>
+   <odds bookie="1036166065_BW" dodds_bslip="0"/>
+   <odds bookie="1036166065_LD" dodds_bslip="0"/>
+   <odds bookie="1036166065_CE" dodds_bslip="0"/>
+   <odds bookie="1036166065_WH" dodds_bslip="0"/>
+   <odds bookie="1036166065_IG" dodds_bslip="0"/>
+   <odds bookie="1036166065_BF" dodds_bslip="1.66"/>
+   <odds bookie="1036166065_WB" dodds_bslip="0"/>
+   <odds bookie="1036166065_BD" dodds_bslip="0"/>
+   <odds bookie="1036166065_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.60">
+   <odds bookie="1036166071_B3" dodds_bslip="3.5"/>
+   <odds bookie="1036166071_SK" dodds_bslip="3.6"/>
+   <odds bookie="1036166071_BX" dodds_bslip="0"/>
+   <odds bookie="1036166071_BY" dodds_bslip="0"/>
+   <odds bookie="1036166071_FR" dodds_bslip="0"/>
+   <odds bookie="1036166071_SO" dodds_bslip="0"/>
+   <odds bookie="1036166071_VC" dodds_bslip="3.5"/>
+   <odds bookie="1036166071_BS" dodds_bslip="0"/>
+   <odds bookie="1036166071_PP" dodds_bslip="0"/>
+   <odds bookie="1036166071_SJ" dodds_bslip="0"/>
+   <odds bookie="1036166071_EE" dodds_bslip="0"/>
+   <odds bookie="1036166071_EX" dodds_bslip="0"/>
+   <odds bookie="1036166071_BW" dodds_bslip="0"/>
+   <odds bookie="1036166071_LD" dodds_bslip="0"/>
+   <odds bookie="1036166071_CE" dodds_bslip="0"/>
+   <odds bookie="1036166071_WH" dodds_bslip="0"/>
+   <odds bookie="1036166071_IG" dodds_bslip="0"/>
+   <odds bookie="1036166071_BF" dodds_bslip="3.45"/>
+   <odds bookie="1036166071_WB" dodds_bslip="0"/>
+   <odds bookie="1036166071_BD" dodds_bslip="0"/>
+   <odds bookie="1036166071_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Leicester" bestOdds="5.50">
+   <odds bookie="1036166068_B3" dodds_bslip="5.5"/>
+   <odds bookie="1036166068_SK" dodds_bslip="5.5"/>
+   <odds bookie="1036166068_BX" dodds_bslip="0"/>
+   <odds bookie="1036166068_BY" dodds_bslip="0"/>
+   <odds bookie="1036166068_FR" dodds_bslip="0"/>
+   <odds bookie="1036166068_SO" dodds_bslip="0"/>
+   <odds bookie="1036166068_VC" dodds_bslip="5.5"/>
+   <odds bookie="1036166068_BS" dodds_bslip="0"/>
+   <odds bookie="1036166068_PP" dodds_bslip="0"/>
+   <odds bookie="1036166068_SJ" dodds_bslip="0"/>
+   <odds bookie="1036166068_EE" dodds_bslip="0"/>
+   <odds bookie="1036166068_EX" dodds_bslip="0"/>
+   <odds bookie="1036166068_BW" dodds_bslip="0"/>
+   <odds bookie="1036166068_LD" dodds_bslip="0"/>
+   <odds bookie="1036166068_CE" dodds_bslip="0"/>
+   <odds bookie="1036166068_WH" dodds_bslip="0"/>
+   <odds bookie="1036166068_IG" dodds_bslip="0"/>
+   <odds bookie="1036166068_BF" dodds_bslip="1.03"/>
+   <odds bookie="1036166068_WB" dodds_bslip="0"/>
+   <odds bookie="1036166068_BD" dodds_bslip="0"/>
+   <odds bookie="1036166068_SI" dodds_bslip=""/>
+</outCome>
+</match>

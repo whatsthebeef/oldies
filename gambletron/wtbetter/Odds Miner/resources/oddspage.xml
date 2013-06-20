@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config charset="UTF-8">
+	<file action="write" path="${fileName}">
+		<template><![CDATA[ <?xml version="1.0" encoding="UTF-8"?>
+							<match> ]]></template>
+		<loop item="row">
+			<list>
+				<xpath expression="//tr[@class='eventTableRow']">
+					<html-to-xml>
+						<http url="${url}" />
+					</html-to-xml>
+				</xpath>
+			</list>
+			<body>
+				<xquery>
+					<xq-param name="doc">
+						<var name="row" />
+					</xq-param>
+					<xq-expression>
+                    <![CDATA[
+                       (: declare namespace for functions :)
+                	   declare namespace fn ="f:ns";
+                	   
+                       (: build up odds elements :)
+                		declare function fn:oddsProcesser($doc) as node()* {
+                            for $td in $doc//tr/td[@dodds_bslip] return 
+                      		<odds bookie="{$td/@id}">{$td/@dodds_bslip}</odds>	
+                        };
+                        
+                        declare variable $doc as node() external;
+                        
+                        let $texts := data($doc//tr/td[@style]/text())
+                        return
+                        <outCome winner="{$texts[2]}" bestOdds="{$texts[1]}">{ fn:oddsProcesser($doc) }</outCome>                      		
+                       ]]>
+					</xq-expression>
+				</xquery>
+			</body>
+		</loop>
+		<template><![CDATA[ </match> ]]></template>
+	</file>
+</config>

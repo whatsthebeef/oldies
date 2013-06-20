@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config charset="UTF-8">
+	<file action="write" path="/home/wtb/tmp/odds.xml">
+		<template><![CDATA[ 
+        <?xml version="1.0" encoding="UTF-8"?> 
+        <match> ]]></template>
+		<regexp>
+			<regexp-pattern>.+/(.+)-v-(.+).html$</regexp-pattern>
+			<regexp-source>
+				http://localhost/leeds-utd-v-manchester-utd.html    
+			</regexp-source>
+			<regexp-result>
+				<var-def name="team">
+        	    	<template>"${_1}"</template>
+        		</var-def>
+			</regexp-result>
+		</regexp>
+	
+
+		<loop item="row">
+			<list>
+				<xpath expression="//tr[@class='eventTableRow']//td[@odds_bslip]">
+					<html-to-xml>
+						<http url="http://localhost/match.html" />
+					</html-to-xml>
+				</xpath>
+			</list>
+			<body>
+				<xquery>
+					<xq-param name="doc">
+						<var name="row" />
+					</xq-param>
+					<xq-expression>
+                    <![CDATA[
+                       declare variable $doc as node() external;
+                    let $id := data($doc//td/@id)
+                    let $previousId := $id
+                    let $odds := data($doc//td/@dodds_bslip)
+                      return 
+                        <odds bookie='{$id}'>{$odds}</odds>
+                       ]]>
+					</xq-expression>
+				</xquery>
+			</body>
+		</loop>
+		<template><![CDATA[ </match> ]]></template>
+	</file>
+</config>

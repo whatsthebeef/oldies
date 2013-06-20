@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config charset="UTF-8">
+	<var-def name="teams">
+		<template>
+			${url}
+		</template>
+	</var-def>
+	<var-def name="previousOutCome">
+		<template>
+			None
+		</template>
+	</var-def>
+	<file action="write" path="${fileName}">
+		<template><![CDATA[ 
+        <?xml version="1.0" encoding="UTF-8"?> 
+        <match> ]]></template>
+		<template><![CDATA[ 
+        <!-- ]]></template>
+		<regexp>
+			<regexp-pattern>.+/(.+)-v-(.+).html$
+			</regexp-pattern>
+			<regexp-source>
+				<text>
+					<var name="teams" />
+				</text>
+			</regexp-source>
+			<regexp-result>
+				<var-def name="teamA">
+					<template>${_1}</template>
+				</var-def>
+				<var-def name="teamB">
+					<template>${_2}</template>
+				</var-def>
+				<var-def name="draw">
+					<template>draw</template>
+				</var-def>
+			</regexp-result>
+		</regexp>
+		<template><![CDATA[ 
+		--> ]]></template>
+
+		<loop item="test">
+			<list>
+				<xpath expression="//tr[@class='eventTableRow']">
+					<html-to-xml>
+						<http url="${url}" />
+					</html-to-xml>
+				</xpath>
+			</list>
+			<body>
+				<var name="test"/>
+			</body>
+		</loop>
+		
+		<loop item="row">
+		
+			<list>
+				<xpath expression="//tr[@class='eventTableRow']//td[@odds_bslip]">
+					<html-to-xml>
+						<http url="${url}" />
+					</html-to-xml>
+				</xpath>
+			</list>
+			<body>
+
+				<template><![CDATA[ 
+        <!-- ]]></template>
+
+				<var-def name="outCome">
+					<regexp>
+						<regexp-pattern>td id="(\d+)_.+</regexp-pattern>
+						<regexp-source>
+							<var name="row" />
+						</regexp-source>
+						<regexp-result>
+							<template>${_1}</template>
+						</regexp-result>
+					</regexp>
+				</var-def>
+
+				<template><![CDATA[ 
+        --> ]]></template>
+
+				<template><![CDATA[ 
+        <!-- ]]></template>
+
+				<var-def name="newOutCome">
+					<case>
+						<if condition="${outCome.toString().equals(previousOutCome.toString())}">
+							false
+						</if>
+						<else>
+							true
+        				</else>
+					</case>
+				</var-def>
+
+				<template><![CDATA[ 
+        --> ]]></template>
+
+				<template><![CDATA[ 
+        <!-- ]]></template>
+
+				<var-def name="previousOutCome">
+					<var name="outCome" />
+				</var-def>
+
+				<template><![CDATA[ 
+        --> ]]></template>
+
+
+				<xquery>
+					<xq-param name="doc">
+						<var name="row" />
+					</xq-param>
+					<xq-param name="outComeA" type="string">
+						<var name="teamA" />
+					</xq-param>
+					<xq-param name="outComeB" type="string">
+						<var name="draw" />
+					</xq-param>
+					<xq-param name="outComeC" type="string">
+						<var name="teamB" />
+					</xq-param>
+					<xq-param name="newOutCome" type="string">
+						<var name="newOutCome" />
+					</xq-param>
+					<xq-expression>
+                    <![CDATA[
+                       declare variable $doc as node() external;
+                       declare variable $outComeA as xs:string external;
+                       declare variable $outComeB as xs:string external;
+                       declare variable $outComeC as xs:string external;
+                       declare variable $newOutCome as xs:string external;
+                    let $id := data($doc//td/@id)
+                    let $odds := data($doc//td/@dodds_bslip)
+                      return if($newOutCome = 'tr') 
+                      	then <odds bookie='{$id}' team='{$outComeA}'>{$odds}</odds>
+                      	else <odds bookie='{$id}' team='{$outComeB}'>{$odds}</odds>                      		
+                       ]]>
+					</xq-expression>
+				</xquery>
+			</body>
+		</loop>
+		<template><![CDATA[ </match> ]]></template>
+	</file>
+</config>
+	<!--
+		declare variable $doc as node() external;
+                       declare variable $outComeA as xs:string external;
+                       declare variable $outComeB as xs:string external;
+                       declare variable $outComeC as xs:string external;
+                       declare variable $newOutCome as xs:string external;
+                    let $id := data($doc//td/@id)
+                    let $odds := data($doc//td/@dodds_bslip)
+                      return if($newOutCome = 'false') 
+                      	then <outCome team='{$outComeA}'><odds bookie='{$id}'>{$odds}</odds></outCome>
+                      	else <outCome team='{$outComeB}'><odds bookie='{$id}'>{$odds}</odds></outCome>
+	-->

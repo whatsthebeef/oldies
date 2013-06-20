@@ -1,0 +1,21 @@
+<?php
+require_once "libs/SmartySetup.php";
+
+$templater = new SmartySetup();
+
+if ($_GET['content'] == 1) { 
+$templater->display('pageadmin.tpl'); 
+} 
+
+if ($_GET['content'] == 2) { 
+echo 'Content for gallery'; 
+} 
+
+if ($_GET['content'] == 3) { 
+echo 'Content for about page'; 
+}
+
+if ($_GET['content'] == 4) { 
+echo 'Content for contact page'; 
+}
+?>

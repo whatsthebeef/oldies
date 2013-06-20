@@ -1,0 +1,194 @@
+Full Tilt Poker Game #6693331119: Table Camino Bravo - $0.25/$0.50 - No Limit Hold'em - 16:24:08 ET - 2008/06/04
+Seat 1: Distiple ($50)
+Seat 2: Tentwodiamond ($47.50)
+Seat 3: PASOink ($35.70)
+Seat 4: Ji Eun_12 ($29.55)
+Seat 5: YVirus ($49.80)
+Seat 6: rogermushroom ($50)
+Seat 7: heiko_muc ($65.15)
+Seat 8: TXHOTHEAD ($10)
+Seat 9: FTregen ($26.95)
+YVirus posts the small blind of $0.25
+rogermushroom has 5 seconds left to act
+rogermushroom posts the big blind of $0.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to rogermushroom [Jd 4d]
+heiko_muc folds
+TXHOTHEAD folds
+FTregen folds
+Distiple folds
+Tentwodiamond folds
+PASOink folds
+Ji Eun_12 raises to $1.75
+YVirus folds
+PASOink is feeling happy
+rogermushroom has 15 seconds left to act
+rogermushroom folds
+Uncalled bet of $1.25 returned to Ji Eun_12
+Ji Eun_12 mucks
+Ji Eun_12 wins the pot ($1.25)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Distiple didn't bet (folded)
+Seat 2: Tentwodiamond didn't bet (folded)
+Seat 3: PASOink didn't bet (folded)
+Seat 4: Ji Eun_12 (button) collected ($1.25), mucked
+Seat 5: YVirus (small blind) folded before the Flop
+Seat 6: rogermushroom (big blind) folded before the Flop
+Seat 7: heiko_muc didn't bet (folded)
+Seat 8: TXHOTHEAD didn't bet (folded)
+Seat 9: FTregen didn't bet (folded)
+
+
+
+Full Tilt Poker Game #6693338679: Table Camino Bravo - $0.25/$0.50 - No Limit Hold'em - 16:24:45 ET - 2008/06/04
+Seat 1: Distiple ($50)
+Seat 2: Tentwodiamond ($47.50)
+Seat 3: PASOink ($35.70)
+Seat 4: Ji Eun_12 ($30.30)
+Seat 5: YVirus ($49.55)
+Seat 6: rogermushroom ($49.50)
+Seat 7: heiko_muc ($65.15)
+Seat 8: TXHOTHEAD ($10)
+Seat 9: FTregen ($26.95)
+rogermushroom posts the small blind of $0.25
+heiko_muc posts the big blind of $0.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to rogermushroom [Qc 6c]
+TXHOTHEAD folds
+FTregen folds
+Distiple folds
+Tentwodiamond calls $0.50
+PASOink folds
+Ji Eun_12 folds
+YVirus folds
+rogermushroom calls $0.25
+heiko_muc checks
+*** FLOP *** [Ah 2h 9s]
+rogermushroom checks
+heiko_muc bets $0.50
+Tentwodiamond folds
+rogermushroom folds
+Uncalled bet of $0.50 returned to heiko_muc
+heiko_muc mucks
+heiko_muc wins the pot ($1.45)
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05
+Board: [Ah 2h 9s]
+Seat 1: Distiple didn't bet (folded)
+Seat 2: Tentwodiamond folded on the Flop
+Seat 3: PASOink didn't bet (folded)
+Seat 4: Ji Eun_12 didn't bet (folded)
+Seat 5: YVirus (button) didn't bet (folded)
+Seat 6: rogermushroom (small blind) folded on the Flop
+Seat 7: heiko_muc (big blind) collected ($1.45), mucked
+Seat 8: TXHOTHEAD didn't bet (folded)
+Seat 9: FTregen didn't bet (folded)
+
+
+
+Full Tilt Poker Game #6693347156: Table Camino Bravo - $0.25/$0.50 - No Limit Hold'em - 16:25:27 ET - 2008/06/04
+Seat 1: Distiple ($50)
+Seat 2: Tentwodiamond ($47)
+Seat 3: PASOink ($35.70)
+Seat 4: Ji Eun_12 ($30.30)
+Seat 5: YVirus ($49.55)
+Seat 6: rogermushroom ($49)
+Seat 7: heiko_muc ($66.10)
+Seat 8: TXHOTHEAD ($10)
+Seat 9: FTregen ($26.95)
+heiko_muc posts the small blind of $0.25
+TXHOTHEAD posts the big blind of $0.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to rogermushroom [9c 5h]
+FTregen folds
+Distiple folds
+Tentwodiamond folds
+PASOink raises to $1
+Ji Eun_12 folds
+YVirus folds
+Ji Eun_12 is sitting out
+Ji Eun_12 has returned
+rogermushroom folds
+heiko_muc folds
+TXHOTHEAD adds $0.50
+TXHOTHEAD has 15 seconds left to act
+TXHOTHEAD folds
+Uncalled bet of $0.50 returned to PASOink
+PASOink mucks
+PASOink wins the pot ($1.25)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Distiple didn't bet (folded)
+Seat 2: Tentwodiamond didn't bet (folded)
+Seat 3: PASOink collected ($1.25), mucked
+Seat 4: Ji Eun_12 didn't bet (folded)
+Seat 5: YVirus didn't bet (folded)
+Seat 6: rogermushroom (button) didn't bet (folded)
+Seat 7: heiko_muc (small blind) folded before the Flop
+Seat 8: TXHOTHEAD (big blind) folded before the Flop
+Seat 9: FTregen didn't bet (folded)
+
+
+
+Full Tilt Poker Game #6693354344: Table Camino Bravo - $0.25/$0.50 - No Limit Hold'em - 16:26:02 ET - 2008/06/04
+Seat 1: Distiple ($50)
+Seat 2: Tentwodiamond ($47)
+Seat 3: PASOink ($36.45)
+Seat 4: Ji Eun_12 ($30.30)
+Seat 5: YVirus ($49.55)
+Seat 6: rogermushroom ($49)
+Seat 7: heiko_muc ($65.85)
+Seat 8: TXHOTHEAD ($10)
+Seat 9: FTregen ($26.95)
+TXHOTHEAD posts the small blind of $0.25
+FTregen posts the big blind of $0.50
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to rogermushroom [7s Qc]
+Distiple folds
+Tentwodiamond folds
+PASOink raises to $1
+Ji Eun_12 folds
+YVirus folds
+rogermushroom folds
+heiko_muc raises to $2
+TXHOTHEAD adds $0.25
+TXHOTHEAD folds
+FTregen calls $1.50
+PASOink calls $1
+*** FLOP *** [5d Kh 9c]
+FTregen checks
+PASOink checks
+heiko_muc bets $2
+FTregen calls $2
+PASOink folds
+*** TURN *** [5d Kh 9c] [9h]
+FTregen checks
+heiko_muc bets $3
+FTregen has 15 seconds left to act
+FTregen raises to $9
+heiko_muc calls $6
+*** RIVER *** [5d Kh 9c 9h] [As]
+FTregen checks
+heiko_muc checks
+*** SHOW DOWN ***
+FTregen shows [Jh Th] a pair of Nines
+heiko_muc shows [Ah Qh] two pair, Aces and Nines
+heiko_muc wins the pot ($26.85) with two pair, Aces and Nines
+*** SUMMARY ***
+Total pot $28.25 | Rake $1.40
+Board: [5d Kh 9c 9h As]
+Seat 1: Distiple didn't bet (folded)
+Seat 2: Tentwodiamond didn't bet (folded)
+Seat 3: PASOink folded on the Flop
+Seat 4: Ji Eun_12 didn't bet (folded)
+Seat 5: YVirus didn't bet (folded)
+Seat 6: rogermushroom didn't bet (folded)
+Seat 7: heiko_muc (button) showed [Ah Qh] and won ($26.85) with two pair, Aces and Nines
+Seat 8: TXHOTHEAD (small blind) folded before the Flop
+Seat 9: FTregen (big blind) showed [Jh Th] and lost with a pair of Nines
+

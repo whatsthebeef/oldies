@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Newcastle" bestOdds="1.73">
+   <odds bookie="1017767596_B3" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_SK" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_BX" dodds_bslip="1.7"/>
+   <odds bookie="1017767596_BY" dodds_bslip="1.62"/>
+   <odds bookie="1017767596_FR" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_SO" dodds_bslip="1.65"/>
+   <odds bookie="1017767596_VC" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_BS" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_PP" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_SJ" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_EE" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_EX" dodds_bslip="1.7"/>
+   <odds bookie="1017767596_BW" dodds_bslip="1.7"/>
+   <odds bookie="1017767596_LD" dodds_bslip="1.67"/>
+   <odds bookie="1017767596_CE" dodds_bslip="1.67"/>
+   <odds bookie="1017767596_WH" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_IG" dodds_bslip="1.73"/>
+   <odds bookie="1017767596_BF" dodds_bslip="1.74"/>
+   <odds bookie="1017767596_WB" dodds_bslip="1.74"/>
+   <odds bookie="1017767596_BD" dodds_bslip="1.74"/>
+   <odds bookie="1017767596_SI" dodds_bslip="15-16.5"/>
+</outCome>
+<outCome winner="Draw" bestOdds="3.75">
+   <odds bookie="1017767599_B3" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_SK" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_BX" dodds_bslip="3.6"/>
+   <odds bookie="1017767599_BY" dodds_bslip="3.6"/>
+   <odds bookie="1017767599_FR" dodds_bslip="3.6"/>
+   <odds bookie="1017767599_SO" dodds_bslip="3.4"/>
+   <odds bookie="1017767599_VC" dodds_bslip="3.6"/>
+   <odds bookie="1017767599_BS" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_PP" dodds_bslip="3.6"/>
+   <odds bookie="1017767599_SJ" dodds_bslip="3.4"/>
+   <odds bookie="1017767599_EE" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_EX" dodds_bslip="3.35"/>
+   <odds bookie="1017767599_BW" dodds_bslip="3.3"/>
+   <odds bookie="1017767599_LD" dodds_bslip="3.75"/>
+   <odds bookie="1017767599_CE" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_WH" dodds_bslip="3.5"/>
+   <odds bookie="1017767599_IG" dodds_bslip="3.4"/>
+   <odds bookie="1017767599_BF" dodds_bslip="3.9"/>
+   <odds bookie="1017767599_WB" dodds_bslip="3.7"/>
+   <odds bookie="1017767599_BD" dodds_bslip="3.9"/>
+   <odds bookie="1017767599_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Nottm Forest" bestOdds="5.50">
+   <odds bookie="1017767593_B3" dodds_bslip="5"/>
+   <odds bookie="1017767593_SK" dodds_bslip="5"/>
+   <odds bookie="1017767593_BX" dodds_bslip="5"/>
+   <odds bookie="1017767593_BY" dodds_bslip="5.5"/>
+   <odds bookie="1017767593_FR" dodds_bslip="5"/>
+   <odds bookie="1017767593_SO" dodds_bslip="5"/>
+   <odds bookie="1017767593_VC" dodds_bslip="4.5"/>
+   <odds bookie="1017767593_BS" dodds_bslip="5"/>
+   <odds bookie="1017767593_PP" dodds_bslip="4.5"/>
+   <odds bookie="1017767593_SJ" dodds_bslip="5"/>
+   <odds bookie="1017767593_EE" dodds_bslip="5"/>
+   <odds bookie="1017767593_EX" dodds_bslip="5.2"/>
+   <odds bookie="1017767593_BW" dodds_bslip="4.5"/>
+   <odds bookie="1017767593_LD" dodds_bslip="5"/>
+   <odds bookie="1017767593_CE" dodds_bslip="5.5"/>
+   <odds bookie="1017767593_WH" dodds_bslip="5"/>
+   <odds bookie="1017767593_IG" dodds_bslip="4.6"/>
+   <odds bookie="1017767593_BF" dodds_bslip="5.6"/>
+   <odds bookie="1017767593_WB" dodds_bslip="5.5"/>
+   <odds bookie="1017767593_BD" dodds_bslip="5.6"/>
+   <odds bookie="1017767593_SI" dodds_bslip="7-8.5"/>
+</outCome>
+</match>

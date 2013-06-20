@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config charset="UTF-8">
+	<var-def name="host">
+		<template>${host}</template>
+	</var-def>
+	<file action="write" path="events.xml">
+		<template><![CDATA[   
+ 	     <?xml version="1.0" encoding="UTF-8"?>
+         <matches> ]]></template>
+		<loop item="row">
+			<list>
+				<xpath
+					expression="//tr[@class='matchesTableRow']//td[@class='colImage']//a[@href]">
+					<html-to-xml>
+						<http url="${url}" />
+					</html-to-xml>
+				</xpath>
+			</list>
+			<body>
+				<xquery>
+					<xq-param name="doc">
+						<var name="row" />
+					</xq-param>
+					<xq-param name="host" type="string">
+						<var name="host" />
+					</xq-param>
+					<xq-expression>
+              	      <![CDATA[
+                       declare variable $doc as node() external;
+                       declare variable $host as xs:string external;
+                     let $href := data($doc//a/@href)
+                	    return 
+                    	    <a href="{$host}{$href}"/>
+                       ]]>
+					</xq-expression>
+				</xquery>
+			</body>
+		</loop>
+		<template><![CDATA[ </matches> ]]></template>
+	</file>
+</config>

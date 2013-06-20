@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+<outCome winner="Chelsea" bestOdds="1.11">
+   <odds bookie="1159739374_B3" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_SK" dodds_bslip="1.11"/>
+   <odds bookie="1159739374_BX" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_BY" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_FR" dodds_bslip="1.08"/>
+   <odds bookie="1159739374_SO" dodds_bslip="1.08"/>
+   <odds bookie="1159739374_VC" dodds_bslip="1.09"/>
+   <odds bookie="1159739374_BS" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_PP" dodds_bslip="1.11"/>
+   <odds bookie="1159739374_SJ" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_EE" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_EX" dodds_bslip="1.08"/>
+   <odds bookie="1159739374_BW" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_BO" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_LD" dodds_bslip="1.07"/>
+   <odds bookie="1159739374_CE" dodds_bslip="1.08"/>
+   <odds bookie="1159739374_WH" dodds_bslip="1.08"/>
+   <odds bookie="1159739374_IG" dodds_bslip="1.1"/>
+   <odds bookie="1159739374_BF" dodds_bslip="1.12"/>
+   <odds bookie="1159739374_WB" dodds_bslip="1.11"/>
+   <odds bookie="1159739374_BD" dodds_bslip="1.12"/>
+   <odds bookie="1159739374_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Draw" bestOdds="10.00">
+   <odds bookie="1159739377_B3" dodds_bslip="10"/>
+   <odds bookie="1159739377_SK" dodds_bslip="8"/>
+   <odds bookie="1159739377_BX" dodds_bslip="8"/>
+   <odds bookie="1159739377_BY" dodds_bslip="9"/>
+   <odds bookie="1159739377_FR" dodds_bslip="7.5"/>
+   <odds bookie="1159739377_SO" dodds_bslip="8"/>
+   <odds bookie="1159739377_VC" dodds_bslip="10"/>
+   <odds bookie="1159739377_BS" dodds_bslip="8"/>
+   <odds bookie="1159739377_PP" dodds_bslip="9"/>
+   <odds bookie="1159739377_SJ" dodds_bslip="7.5"/>
+   <odds bookie="1159739377_EE" dodds_bslip="8"/>
+   <odds bookie="1159739377_EX" dodds_bslip="9.5"/>
+   <odds bookie="1159739377_BW" dodds_bslip="8.8"/>
+   <odds bookie="1159739377_BO" dodds_bslip="8.3"/>
+   <odds bookie="1159739377_LD" dodds_bslip="8"/>
+   <odds bookie="1159739377_CE" dodds_bslip="6.5"/>
+   <odds bookie="1159739377_WH" dodds_bslip="7"/>
+   <odds bookie="1159739377_IG" dodds_bslip="9"/>
+   <odds bookie="1159739377_BF" dodds_bslip="12.5"/>
+   <odds bookie="1159739377_WB" dodds_bslip="11"/>
+   <odds bookie="1159739377_BD" dodds_bslip="11.5"/>
+   <odds bookie="1159739377_SI" dodds_bslip=""/>
+</outCome>
+<outCome winner="Wigan" bestOdds="26.00">
+   <odds bookie="1159739398_B3" dodds_bslip="23"/>
+   <odds bookie="1159739398_SK" dodds_bslip="26"/>
+   <odds bookie="1159739398_BX" dodds_bslip="21"/>
+   <odds bookie="1159739398_BY" dodds_bslip="23"/>
+   <odds bookie="1159739398_FR" dodds_bslip="21"/>
+   <odds bookie="1159739398_SO" dodds_bslip="19"/>
+   <odds bookie="1159739398_VC" dodds_bslip="26"/>
+   <odds bookie="1159739398_BS" dodds_bslip="26"/>
+   <odds bookie="1159739398_PP" dodds_bslip="21"/>
+   <odds bookie="1159739398_SJ" dodds_bslip="17"/>
+   <odds bookie="1159739398_EE" dodds_bslip="26"/>
+   <odds bookie="1159739398_EX" dodds_bslip="25"/>
+   <odds bookie="1159739398_BW" dodds_bslip="17"/>
+   <odds bookie="1159739398_BO" dodds_bslip="23"/>
+   <odds bookie="1159739398_LD" dodds_bslip="15"/>
+   <odds bookie="1159739398_CE" dodds_bslip="21"/>
+   <odds bookie="1159739398_WH" dodds_bslip="17"/>
+   <odds bookie="1159739398_IG" dodds_bslip="21"/>
+   <odds bookie="1159739398_BF" dodds_bslip="28"/>
+   <odds bookie="1159739398_WB" dodds_bslip="26"/>
+   <odds bookie="1159739398_BD" dodds_bslip="34"/>
+   <odds bookie="1159739398_SI" dodds_bslip=""/>
+</outCome>
+</match>
